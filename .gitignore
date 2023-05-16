@@ -1,3 +1,8 @@
 B/Luminia.pdf
 B/sites/prompts/
 B/portraits/prompts/
+G/portraits/prompts/
+G/sites/prompts/
+.*/prompts/.*
+Z/portraits/prompts/
+Z/sites/prompts/
