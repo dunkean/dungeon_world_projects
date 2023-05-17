@@ -2,6 +2,24 @@
 <html lang="en">
 <head>
     <title> Atlas </title>
+	<script> 
+		let index = 0;
+		displayImages();
+		function displayImages() {
+		let i;
+		const images = document.getElementsByClassName("image");
+		console.log(images)
+		for (i = 0; i < images.length; i++) {
+			images[i].style.display = "none";
+		}
+		index++;
+		if (index > images.length) {
+			index = 1;
+		}
+		images[index-1].style.display = "block";
+		setTimeout(displayImages, 2000); 
+		}
+	</script>
     <style>
         /* General styles */
 
@@ -52,36 +70,6 @@ margin: 20px auto;
 margin-bottom: 10px;
 }
 
-.anecdote {
-font-size: 18px;
-font-style: italic;
-}
-
-.architecture {
-font-size: 18px;
-font-weight: bold;
-}
-
-.keyword {
-color: red;
-}
-
-.groups {
-max-width: 1000px;
-margin: 20px auto;
-}
-
-.group {
-border: 2px solid #ccc;
-padding: 10px;
-}
-
-/* Layout styles */
-.workplace {
-max-width: 1000px;
-margin: 20px auto;
-}
-
 .site {
 border: 2px solid #ccc;
 padding: 10px;
@@ -130,12 +118,6 @@ img {
 	width: 90%;
 }
 
-.thumb {
-	margin-left: 0;
-	margin-right: 0;
-	width: 100%;
-	margin-bottom: 0;
-}
 
 .grid-container {
 	display: grid;
@@ -177,44 +159,123 @@ span {
 	left: 0;
 	padding: 10px;
 }
+
+* {
+    box-sizing: border-box
+}
+
+.image-slideshow {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+img {
+  width: 100%
+}
+
+.fade {
+  animation-name: fade;
+  animation-duration: 2s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
     </style>
 </head>
 <body>
     <div class="grid-container">
         
         <div class="grid-item">
-        <a href="B/index.html">
-            <h4>Luminia</h4>
-            <h5></h5>
-            <p style="font-size: 10px;">A cozy and prosperous village nestled in the heart of a dense ancient forest surrounded by rugged mountains.</p>
-            <img class="thumb" src="./B/sites/the ancient ruins in the forest_Luminia.jpg" alt="">
+			<h4>Luminia</h4>
+            <h5>299</h5>
+            <p style="font-size: 12px;">A cozy and prosperous village nestled in the heart of a dense ancient forest surrounded by rugged mountains.</p>
+			<a href="B/index.html">
+			
+			<div class="image-slideshow">
+			
+				<div class="image fade">
+					<img src="https://images2.imgbox.com/61/ca/6QkYypnU_o.jpg" alt="view">
+				</div>
+			
+			</div>
+
+
         </a>
         </div>
         
         <div class="grid-item">
-        <a href="G/index.html">
-            <h4>Lakemont</h4>
-            <h5></h5>
-            <p style="font-size: 10px;">A small yet prosperous village nestled in the shadow of a mountain range, surrounded by fertile farmland and a tranquil lake.</p>
-            <img class="thumb" src="./G/sites/ancient stone circle on hill_Lakemont.jpg" alt="">
+			<h4>Lakemont</h4>
+            <h5>208</h5>
+            <p style="font-size: 12px;">A small yet prosperous village nestled in the shadow of a mountain range, surrounded by fertile farmland and a tranquil lake.</p>
+			<a href="G/index.html">
+			
+			<div class="image-slideshow">
+			
+				<div class="image fade">
+					<img src="https://images2.imgbox.com/65/80/e8zcTCgL_o.jpg" alt="view">
+				</div>
+			
+			</div>
+
+
         </a>
         </div>
         
         <div class="grid-item">
-        <a href="X/index.html">
-            <h4>Crystalhold</h4>
-            <h5></h5>
-            <p style="font-size: 10px;">A small but bustling dwarven community nestled deep within a majestic mountain range</p>
-            <img class="thumb" src="./X/sites/Shadowvein Hall_Crystalhold.jpg" alt="">
+			<h4>Aurwyn's Sanctuary</h4>
+            <h5>60</h5>
+            <p style="font-size: 12px;">Aurwyn's Sanctuary is a small, hidden elven settlement nestled deep within a dense, magical forest. Its buildings, woven from living vines and adorned with vibrant blossoms, blend seamlessly with the surrounding flora.</p>
+			<a href="N/index.html">
+			
+			<div class="image-slideshow">
+			
+				<div class="image fade">
+					<img src="https://images2.imgbox.com/02/1c/Tn9QH1sz_o.jpg" alt="view">
+				</div>
+			
+			</div>
+
+
         </a>
         </div>
         
         <div class="grid-item">
-        <a href="Z/index.html">
-            <h4>Mysticrest</h4>
-            <h5></h5>
-            <p style="font-size: 10px;">A small and cozy hamlet nestled in the heart of a dense and magical forest.</p>
-            <img class="thumb" src="./Z/sites/the enigmatic standing stones at the edge of the village_Mysticrest.jpg" alt="">
+			<h4>Crystalhold</h4>
+            <h5>62</h5>
+            <p style="font-size: 12px;">A small but bustling dwarven community nestled deep within a majestic mountain range</p>
+			<a href="X/index.html">
+			
+			<div class="image-slideshow">
+			
+				<div class="image fade">
+					<img src="https://images2.imgbox.com/1b/3b/d8xaeEJj_o.jpg" alt="view">
+				</div>
+			
+			</div>
+
+
+        </a>
+        </div>
+        
+        <div class="grid-item">
+			<h4>Mysticrest</h4>
+            <h5>76</h5>
+            <p style="font-size: 12px;">A small and cozy hamlet nestled in the heart of a dense and magical forest.</p>
+			<a href="Z/index.html">
+			
+			<div class="image-slideshow">
+			
+				<div class="image fade">
+					<img src="https://images2.imgbox.com/e1/82/rhZGzcX1_o.jpg" alt="view">
+				</div>
+			
+			</div>
+
+
         </a>
         </div>
         

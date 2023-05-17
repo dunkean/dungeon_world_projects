@@ -46,12 +46,12 @@
                 "The Temple of the Old One": "A small but ornate chamber carved from the living stone, the most sacred place of worship for the dwarves of Crystalhold. The murals, statues, and shrines depict the old dwarven gods and heroes, and the massive anvil symbolizes the forging of the world and the souls of the dwarves. The Temple is a place of prayer, reflection, and learning, as well as a place of action and guidance, as the priests of the Old One interpret the will of the gods and advise the leaders of the hold."
             },
             "sites_img": {
-                "Shadowvein Hall": "sites/Shadowvein Hall_Crystalhold.jpg",
-                "The Bronze Gate": "sites/The Bronze Gate_Crystalhold.jpg",
-                "The Crystal Gardens": "sites/The Crystal Gardens_Crystalhold.jpg",
-                "The Great Forge": "sites/The Great Forge_Crystalhold.jpg",
-                "The Old Tunnels": "sites/The Old Tunnels_Crystalhold.jpg",
-                "The Temple of the Old One": "sites/The Temple of the Old One_Crystalhold.jpg"
+                "Shadowvein Hall": "https://images2.imgbox.com/0f/0b/KJI6ezQx_o.jpg",
+                "The Bronze Gate": "https://images2.imgbox.com/3a/a4/EgHn1Zsx_o.jpg",
+                "The Crystal Gardens": "https://images2.imgbox.com/40/ec/M1iyEh2H_o.jpg",
+                "The Great Forge": "https://images2.imgbox.com/79/69/Vdlvzi88_o.jpg",
+                "The Old Tunnels": "https://images2.imgbox.com/ab/e9/bvsyyW2e_o.jpg",
+                "The Temple of the Old One": "https://images2.imgbox.com/a6/ef/yPvD5kTb_o.jpg"
             },
             "sites_keywords": {
                 "Shadowvein Hall": [
@@ -102,6 +102,74 @@
                     "worship and prayer",
                     "learning and reflection"
                 ]
+            },
+            "sites_submission": {
+                "Shadowvein Hall": {
+                    "edit_url": "https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB",
+                    "error": null,
+                    "filename": "Shadowvein Hall_Crystalhold.jpg",
+                    "filepath": "./output/X/sites/Shadowvein Hall_Crystalhold.jpg",
+                    "gallery_url": "https://imgbox.com/g/tF8yWtjLoh",
+                    "image_url": "https://images2.imgbox.com/0f/0b/KJI6ezQx_o.jpg",
+                    "success": true,
+                    "thumbnail_url": "https://thumbs2.imgbox.com/0f/0b/KJI6ezQx_t.jpg",
+                    "web_url": "https://imgbox.com/KJI6ezQx"
+                },
+                "The Bronze Gate": {
+                    "edit_url": "https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB",
+                    "error": null,
+                    "filename": "The Bronze Gate_Crystalhold.jpg",
+                    "filepath": "./output/X/sites/The Bronze Gate_Crystalhold.jpg",
+                    "gallery_url": "https://imgbox.com/g/tF8yWtjLoh",
+                    "image_url": "https://images2.imgbox.com/3a/a4/EgHn1Zsx_o.jpg",
+                    "success": true,
+                    "thumbnail_url": "https://thumbs2.imgbox.com/3a/a4/EgHn1Zsx_t.jpg",
+                    "web_url": "https://imgbox.com/EgHn1Zsx"
+                },
+                "The Crystal Gardens": {
+                    "edit_url": "https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB",
+                    "error": null,
+                    "filename": "The Crystal Gardens_Crystalhold.jpg",
+                    "filepath": "./output/X/sites/The Crystal Gardens_Crystalhold.jpg",
+                    "gallery_url": "https://imgbox.com/g/tF8yWtjLoh",
+                    "image_url": "https://images2.imgbox.com/40/ec/M1iyEh2H_o.jpg",
+                    "success": true,
+                    "thumbnail_url": "https://thumbs2.imgbox.com/40/ec/M1iyEh2H_t.jpg",
+                    "web_url": "https://imgbox.com/M1iyEh2H"
+                },
+                "The Great Forge": {
+                    "edit_url": "https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB",
+                    "error": null,
+                    "filename": "The Great Forge_Crystalhold.jpg",
+                    "filepath": "./output/X/sites/The Great Forge_Crystalhold.jpg",
+                    "gallery_url": "https://imgbox.com/g/tF8yWtjLoh",
+                    "image_url": "https://images2.imgbox.com/79/69/Vdlvzi88_o.jpg",
+                    "success": true,
+                    "thumbnail_url": "https://thumbs2.imgbox.com/79/69/Vdlvzi88_t.jpg",
+                    "web_url": "https://imgbox.com/Vdlvzi88"
+                },
+                "The Old Tunnels": {
+                    "edit_url": "https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB",
+                    "error": null,
+                    "filename": "The Old Tunnels_Crystalhold.jpg",
+                    "filepath": "./output/X/sites/The Old Tunnels_Crystalhold.jpg",
+                    "gallery_url": "https://imgbox.com/g/tF8yWtjLoh",
+                    "image_url": "https://images2.imgbox.com/ab/e9/bvsyyW2e_o.jpg",
+                    "success": true,
+                    "thumbnail_url": "https://thumbs2.imgbox.com/ab/e9/bvsyyW2e_t.jpg",
+                    "web_url": "https://imgbox.com/bvsyyW2e"
+                },
+                "The Temple of the Old One": {
+                    "edit_url": "https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB",
+                    "error": null,
+                    "filename": "The Temple of the Old One_Crystalhold.jpg",
+                    "filepath": "./output/X/sites/The Temple of the Old One_Crystalhold.jpg",
+                    "gallery_url": "https://imgbox.com/g/tF8yWtjLoh",
+                    "image_url": "https://images2.imgbox.com/a6/ef/yPvD5kTb_o.jpg",
+                    "success": true,
+                    "thumbnail_url": "https://thumbs2.imgbox.com/a6/ef/yPvD5kTb_t.jpg",
+                    "web_url": "https://imgbox.com/yPvD5kTb"
+                }
             },
             "style": [
                 "dwarven",
@@ -168,12 +236,69 @@
                 "a small but vocal faction of dwarves who oppose the cooperative leadership structure"
             ]
         },
+        "global_submissions": {
+            "aerial view": {
+                "edit_url": "https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB",
+                "error": null,
+                "filename": "aerial view_Crystalhold.jpg",
+                "filepath": "./output/X/sites/aerial view_Crystalhold.jpg",
+                "gallery_url": "https://imgbox.com/g/tF8yWtjLoh",
+                "image_url": "https://images2.imgbox.com/ba/20/MLCg8PLf_o.jpg",
+                "success": true,
+                "thumbnail_url": "https://thumbs2.imgbox.com/ba/20/MLCg8PLf_t.jpg",
+                "web_url": "https://imgbox.com/MLCg8PLf"
+            },
+            "bird view": {
+                "edit_url": "https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB",
+                "error": null,
+                "filename": "bird view_Crystalhold.jpg",
+                "filepath": "./output/X/sites/bird view_Crystalhold.jpg",
+                "gallery_url": "https://imgbox.com/g/tF8yWtjLoh",
+                "image_url": "https://images2.imgbox.com/64/44/qQqvcgPp_o.jpg",
+                "success": true,
+                "thumbnail_url": "https://thumbs2.imgbox.com/64/44/qQqvcgPp_t.jpg",
+                "web_url": "https://imgbox.com/qQqvcgPp"
+            },
+            "global view": {
+                "edit_url": "https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB",
+                "error": null,
+                "filename": "global view_Crystalhold.jpg",
+                "filepath": "./output/X/sites/global view_Crystalhold.jpg",
+                "gallery_url": "https://imgbox.com/g/tF8yWtjLoh",
+                "image_url": "https://images2.imgbox.com/1b/3b/d8xaeEJj_o.jpg",
+                "success": true,
+                "thumbnail_url": "https://thumbs2.imgbox.com/1b/3b/d8xaeEJj_t.jpg",
+                "web_url": "https://imgbox.com/d8xaeEJj"
+            },
+            "high angle view": {
+                "edit_url": "https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB",
+                "error": null,
+                "filename": "high angle view_Crystalhold.jpg",
+                "filepath": "./output/X/sites/high angle view_Crystalhold.jpg",
+                "gallery_url": "https://imgbox.com/g/tF8yWtjLoh",
+                "image_url": "https://images2.imgbox.com/4a/36/Dawbh9pP_o.jpg",
+                "success": true,
+                "thumbnail_url": "https://thumbs2.imgbox.com/4a/36/Dawbh9pP_t.jpg",
+                "web_url": "https://imgbox.com/Dawbh9pP"
+            },
+            "street scene": {
+                "edit_url": "https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB",
+                "error": null,
+                "filename": "street scene_Crystalhold.jpg",
+                "filepath": "./output/X/sites/street scene_Crystalhold.jpg",
+                "gallery_url": "https://imgbox.com/g/tF8yWtjLoh",
+                "image_url": "https://images2.imgbox.com/c5/19/wmlU5iG5_o.jpg",
+                "success": true,
+                "thumbnail_url": "https://thumbs2.imgbox.com/c5/19/wmlU5iG5_t.jpg",
+                "web_url": "https://imgbox.com/wmlU5iG5"
+            }
+        },
         "global_views": {
-            "aerial view": "sites/aerial view_Crystalhold.jpg",
-            "bird view": "sites/bird view_Crystalhold.jpg",
-            "global view": "sites/global view_Crystalhold.jpg",
-            "high angle view": "sites/high angle view_Crystalhold.jpg",
-            "street scene": "sites/street scene_Crystalhold.jpg"
+            "aerial view": "https://images2.imgbox.com/ba/20/MLCg8PLf_o.jpg",
+            "bird view": "https://images2.imgbox.com/64/44/qQqvcgPp_o.jpg",
+            "global view": "https://images2.imgbox.com/1b/3b/d8xaeEJj_o.jpg",
+            "high angle view": "https://images2.imgbox.com/4a/36/Dawbh9pP_o.jpg",
+            "street scene": "https://images2.imgbox.com/c5/19/wmlU5iG5_o.jpg"
         },
         "goals": {
             "keywords": [
@@ -470,7 +595,8 @@
             "hair": "Long and flowing - red",
             "height": "average",
             "history": "Bartan was born and raised in Crystalhold, and comes from a long line of skilled blacksmiths. His father and grandfather both worked at Forgemasters' Den before him, and he takes great pride in continuing their legacy. Bartan married his childhood sweetheart, Uhlith, and together they have raised a large family. He is particularly close to his oldest son, Jurg, who he hopes will one day take over the family business.",
-            "img_path": "portraits/Olghrd Bartan.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Bartan.jpg', filename='Olghrd Bartan.jpg', image_url='https://images2.imgbox.com/3d/8f/qDEgRXXO_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/3d/8f/qDEgRXXO_t.jpg', web_url='https://imgbox.com/qDEgRXXO', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/3d/8f/qDEgRXXO_o.jpg",
             "job": {
                 "description": "Wise leader with a sharp tongue",
                 "fullname": "Bartan Olghrd",
@@ -547,7 +673,8 @@
             "hair": "thick white beard and hair",
             "height": "tall",
             "history": "Bindar was born into the Steadfast family, one of the native families of Crystalhold. As a young dwarf, he showed a talent for mining and quickly rose through the ranks to become a respected senior miner. When his father passed away, Bindar became the family chief, a role he has held for many years. Throughout his life, Bindar has seen the ups and downs of Crystalhold's mining industry, but he has always remained steadfast in his commitment to the town and its people.",
-            "img_path": "portraits/Steadfast Bindar.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Bindar.jpg', filename='Steadfast Bindar.jpg', image_url='https://images2.imgbox.com/08/9c/2yR21D9T_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/08/9c/2yR21D9T_t.jpg', web_url='https://imgbox.com/2yR21D9T', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/08/9c/2yR21D9T_o.jpg",
             "job": {
                 "description": "experienced and respected miner, who has overseen many major breakthroughs and accidents alike",
                 "fullname": "Bindar Steadfast",
@@ -622,7 +749,8 @@
             "hair": "long and black, tied in a braid",
             "height": "average",
             "history": "Dunarl was born and raised in Crystalhold, where he learned the art of mining and craftsmanship from his father. As a young dwarf, he fell in love with Ulave and secretly married her against the wishes of his family. Together they built a life on Belgre Farmstead, where they raised a family and became well-respected members of the community. Dunarl's commitment to his tribe and the dwarven culture has never wavered, and he is determined to leave a lasting legacy for future generations.",
-            "img_path": "portraits/Belgre Dunarl.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Dunarl.jpg', filename='Belgre Dunarl.jpg', image_url='https://images2.imgbox.com/25/72/PX0F4Awm_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/25/72/PX0F4Awm_t.jpg', web_url='https://imgbox.com/PX0F4Awm', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/25/72/PX0F4Awm_o.jpg",
             "job": {
                 "description": "Stern but fair, respected leader",
                 "fullname": "Dunarl Belgre",
@@ -693,7 +821,8 @@
             "hair": "short and wild",
             "height": "tall",
             "history": "The Softshadow family is a native group that has been living in Crystalhold for generations. Durg's grandfather, Galtar, was a wise and patient man who shared his wealth of experience with the younger members of the family. Durg's father, Decklin, always wanted the best for his children and instilled in them the importance of protecting their family's legacy. Durg himself has grown into a strong-willed individual with a fierce sense of pride. His strained relationship with his sister Gorina began when she disagreed with his plans to build a stash of weapons. Despite this conflict, Durg is still respectful towards his father and values his opinion greatly.",
-            "img_path": "portraits/Softshadow Durg.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Durg.jpg', filename='Softshadow Durg.jpg', image_url='https://images2.imgbox.com/5a/2e/aNCRwNGn_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/5a/2e/aNCRwNGn_t.jpg', web_url='https://imgbox.com/aNCRwNGn', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/5a/2e/aNCRwNGn_o.jpg",
             "job": {
                 "description": "Strong-willed eldest son with a fierce sense of pride",
                 "fullname": "Durg Softshadow",
@@ -773,7 +902,8 @@
             "hair": "short and spiky",
             "height": "average",
             "history": "Galtar Whitnock was born in Crystalhold and has lived there his entire life. He comes from a long line of skilled craftsmen and learned the art of jewelry making from his father. Galtar's family is part of the Steadfast group, who have lived in Crystalhold for generations. The group is known for their resilience, hard work, and loyalty to each other. Galtar is proud of his family's legacy and hopes to continue it by creating stunning pieces of jewelry that will be remembered for years to come.",
-            "img_path": "portraits/Whitnock Galtar.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Whitnock Galtar.jpg', filename='Whitnock Galtar.jpg', image_url='https://images2.imgbox.com/1f/ce/iVEIMReD_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/1f/ce/iVEIMReD_t.jpg', web_url='https://imgbox.com/iVEIMReD', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/1f/ce/iVEIMReD_o.jpg",
             "job": {
                 "description": "tough but fair boss",
                 "fullname": "Galtar Whitnock",
@@ -846,7 +976,8 @@
             "hair": "long and grey",
             "height": "average",
             "history": "Gedine comes from a long line of miners and craftsmen who have lived in Crystalhold for generations. Her family is the backbone of the community, providing jobs and leadership to the hamlet. Gedine herself has been a spiritual guide since she was a young dwarf, called to serve by a vision she had while working in the mines. She has dedicated her life to her community and her family, using her wisdom and experience to guide them through good times and bad.",
-            "img_path": "portraits/Steadfast Gedine.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Gedine.jpg', filename='Steadfast Gedine.jpg', image_url='https://images2.imgbox.com/55/d3/ZeXXEGlp_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/55/d3/ZeXXEGlp_t.jpg', web_url='https://imgbox.com/ZeXXEGlp', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/55/d3/ZeXXEGlp_o.jpg",
             "job": {
                 "description": "Storyteller and spiritual guide for the family",
                 "fullname": "Gedine Steadfast",
@@ -917,7 +1048,8 @@
             "hair": "short and gray",
             "height": "small",
             "history": "Gorina Oreblood moved to Crystalhold from an outsider group and quickly made a name for herself as a skilled blacksmith. She eventually rose to lead the Blacksmithing guild at the Forgemasters' Den. Though she misses her former home, Gorina has found solace in the tight-knit community of Crystalhold and the camaraderie of her colleagues at the guild. She takes great pride in her work, viewing each piece she creates as a testament to her craft and a legacy for future generations.",
-            "img_path": "portraits/Oreblood Gorina.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Oreblood Gorina.jpg', filename='Oreblood Gorina.jpg', image_url='https://images2.imgbox.com/e4/51/ODWFNsFy_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/e4/51/ODWFNsFy_t.jpg', web_url='https://imgbox.com/ODWFNsFy', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/e4/51/ODWFNsFy_o.jpg",
             "job": {
                 "description": "Expert smith, revered in the community",
                 "fullname": "Gorina Oreblood",
@@ -990,7 +1122,8 @@
             "hair": "shoulder-length and auburn",
             "height": "average",
             "history": "Born and raised in Crystalhold, Gorina has always been fascinated by the city's mining heritage and the natural beauty of the surrounding mountains and caves. Her family, the Steadfast clan have been a part of the mining community for generations, with her elders passing down tales of the Old One and the riches hidden deep within the mountain. Growing up in a close-knit family, Gorina learned about metalsmithing and jewelry-making from her mother, who was skilled in the trade. Determined to follow in her footsteps, she studied hard and eventually joined Steadfast Mining Company as an apprentice jeweler. Over the years, Gorina has earned a reputation as one of the best jewelers in Crystalhold, thanks to her unique talent for turning flawed gems into stunning works of art. Despite her successes, she still seeks recognition and the chance to explore new horizons beyond her hometown.",
-            "img_path": "portraits/Steadfast Gorina.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Gorina.jpg', filename='Steadfast Gorina.jpg', image_url='https://images2.imgbox.com/cb/b2/E2bFJNTm_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/cb/b2/E2bFJNTm_t.jpg', web_url='https://imgbox.com/E2bFJNTm', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/cb/b2/E2bFJNTm_o.jpg",
             "job": {
                 "description": "Skilled jeweler and metalsmith, who turns flawed gems into works of art",
                 "fullname": "Gorina Steadfast",
@@ -1063,7 +1196,8 @@
             "hair": "long and gray, tied in a braid",
             "height": "small",
             "history": "Torlith was born and raised in Crystalhold, and has lived there her whole life. She comes from a long line of miners and farmers, and takes pride in her family's legacy. Torlith has seen much in her years, including the rise and fall of many mining operations in the region. She has weathered both good times and bad, and remains committed to her community and its people.",
-            "img_path": "portraits/Belgre Torlith.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Torlith.jpg', filename='Belgre Torlith.jpg', image_url='https://images2.imgbox.com/3a/e6/M5P51rcZ_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/3a/e6/M5P51rcZ_t.jpg', web_url='https://imgbox.com/M5P51rcZ', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/3a/e6/M5P51rcZ_o.jpg",
             "job": {
                 "description": "Wise and venerable, the moral compass of the family",
                 "fullname": "Torlith Belgre",
@@ -1131,7 +1265,8 @@
             "generation": "mid",
             "hair": "Short and scruffy - brown",
             "height": "average",
-            "img_path": "portraits/Olghrd Admon.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Admon.jpg', filename='Olghrd Admon.jpg', image_url='https://images2.imgbox.com/12/ca/Ppk29f8Q_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/12/ca/Ppk29f8Q_t.jpg', web_url='https://imgbox.com/Ppk29f8Q', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/12/ca/Ppk29f8Q_o.jpg",
             "job": {
                 "description": "Ambitious and hardworking, eager to prove himself",
                 "fullname": "Admon Olghrd",
@@ -1178,7 +1313,8 @@
             "generation": "old",
             "hair": "Short, grey hair",
             "height": "average",
-            "img_path": "portraits/Darkmantle Ardin.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Darkmantle Ardin.jpg', filename='Darkmantle Ardin.jpg', image_url='https://images2.imgbox.com/93/e4/sj4tH14h_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/93/e4/sj4tH14h_t.jpg', web_url='https://imgbox.com/sj4tH14h', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/93/e4/sj4tH14h_o.jpg",
             "name": "Ardin",
             "nickname": "The Good-Natured Old Timer",
             "origin": "outsider",
@@ -1212,7 +1348,8 @@
             "generation": "young",
             "hair": "messy, light brown",
             "height": "short",
-            "img_path": "portraits/Belgre Barl.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Barl.jpg', filename='Belgre Barl.jpg', image_url='https://images2.imgbox.com/e6/d5/V1J5hUPz_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/e6/d5/V1J5hUPz_t.jpg', web_url='https://imgbox.com/V1J5hUPz', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/e6/d5/V1J5hUPz_o.jpg",
             "job": {
                 "description": "Playful and mischievous, enjoys helping out around the farm",
                 "fullname": "Barl Belgre",
@@ -1259,7 +1396,8 @@
             "generation": "young",
             "hair": "short, black",
             "height": "average",
-            "img_path": "portraits/Oreblood Barl.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Oreblood Barl.jpg', filename='Oreblood Barl.jpg', image_url='https://images2.imgbox.com/15/77/4LQ0x3qe_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/15/77/4LQ0x3qe_t.jpg', web_url='https://imgbox.com/4LQ0x3qe', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/15/77/4LQ0x3qe_o.jpg",
             "job": {
                 "description": "Talented jeweler, often lost in his thoughts",
                 "fullname": "Barl Oreblood",
@@ -1306,7 +1444,8 @@
             "generation": "mid",
             "hair": "short brown",
             "height": "average",
-            "img_path": "portraits/Durkin Bartan.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Bartan.jpg', filename='Durkin Bartan.jpg', image_url='https://images2.imgbox.com/09/71/Pfy6zdML_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/09/71/Pfy6zdML_t.jpg', web_url='https://imgbox.com/Pfy6zdML', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/09/71/Pfy6zdML_o.jpg",
             "job": {
                 "description": "hard-working and practical, with a dry sense of humor",
                 "fullname": "Bartan Durkin",
@@ -1353,7 +1492,8 @@
             "generation": "mid",
             "hair": "short and slicked back",
             "height": "tall",
-            "img_path": "portraits/Softshadow Bindar.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Bindar.jpg', filename='Softshadow Bindar.jpg', image_url='https://images2.imgbox.com/cd/36/vzVTJ0HA_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/cd/36/vzVTJ0HA_t.jpg', web_url='https://imgbox.com/vzVTJ0HA', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/cd/36/vzVTJ0HA_o.jpg",
             "job": {
                 "description": "Greedy cousin with a talent for scheming",
                 "fullname": "Bindar Softshadow",
@@ -1400,7 +1540,8 @@
             "generation": "old",
             "hair": "balding grey",
             "height": "short",
-            "img_path": "portraits/Durkin Bullin.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Bullin.jpg', filename='Durkin Bullin.jpg', image_url='https://images2.imgbox.com/4d/de/TXAk90EK_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/4d/de/TXAk90EK_t.jpg', web_url='https://imgbox.com/TXAk90EK', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/4d/de/TXAk90EK_o.jpg",
             "job": {
                 "description": "stoic and wise, always ready with a story",
                 "fullname": "Bullin Durkin",
@@ -1447,7 +1588,8 @@
             "generation": "old",
             "hair": "long and grey",
             "height": "short",
-            "img_path": "portraits/Urdro Burnev.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Urdro Burnev.jpg', filename='Urdro Burnev.jpg', image_url='https://images2.imgbox.com/65/86/095TnJ2i_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/65/86/095TnJ2i_t.jpg', web_url='https://imgbox.com/095TnJ2i', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/65/86/095TnJ2i_o.jpg",
             "job": {
                 "description": "Elderly but still sharp and fiercely independent",
                 "fullname": "Burnev Urdro",
@@ -1494,7 +1636,8 @@
             "generation": "mid",
             "hair": "long and straight",
             "height": "average",
-            "img_path": "portraits/Softshadow Cathro.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Cathro.jpg', filename='Softshadow Cathro.jpg', image_url='https://images2.imgbox.com/f0/ef/nbVZRyvy_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/f0/ef/nbVZRyvy_t.jpg', web_url='https://imgbox.com/nbVZRyvy', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/f0/ef/nbVZRyvy_o.jpg",
             "name": "Cathro",
             "nickname": "Cat",
             "origin": "native",
@@ -1528,7 +1671,8 @@
             "generation": "young",
             "hair": "short and curly",
             "height": "short",
-            "img_path": "portraits/Steadfast Cathro.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Cathro.jpg', filename='Steadfast Cathro.jpg', image_url='https://images2.imgbox.com/d1/d8/w7ZRSGbZ_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/d1/d8/w7ZRSGbZ_t.jpg', web_url='https://imgbox.com/w7ZRSGbZ', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/d1/d8/w7ZRSGbZ_o.jpg",
             "name": "Cathro",
             "nickname": "",
             "origin": "native",
@@ -1562,7 +1706,8 @@
             "generation": "mid",
             "hair": "Short, curly brown hair",
             "height": "short",
-            "img_path": "portraits/Lugro Crieda.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Lugro Crieda.jpg', filename='Lugro Crieda.jpg', image_url='https://images2.imgbox.com/f1/29/9yg2JgVf_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/f1/29/9yg2JgVf_t.jpg', web_url='https://imgbox.com/9yg2JgVf', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/f1/29/9yg2JgVf_o.jpg",
             "name": "Crieda",
             "nickname": "Crie",
             "origin": "outsider",
@@ -1596,7 +1741,8 @@
             "generation": "young",
             "hair": "short and curly brown",
             "height": "short",
-            "img_path": "portraits/Durkin Darlave.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Darlave.jpg', filename='Durkin Darlave.jpg', image_url='https://images2.imgbox.com/fb/a9/lyJCJMtD_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/fb/a9/lyJCJMtD_t.jpg', web_url='https://imgbox.com/lyJCJMtD', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/fb/a9/lyJCJMtD_o.jpg",
             "job": {
                 "description": "Quiet and introspective with an artistic streak",
                 "fullname": "Darlave Durkin",
@@ -1644,7 +1790,8 @@
             "generation": "mid",
             "hair": "Short and curly - silver",
             "height": "average",
-            "img_path": "portraits/Olghrd Darlave.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Darlave.jpg', filename='Olghrd Darlave.jpg', image_url='https://images2.imgbox.com/18/d4/rBYO6R9Q_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/18/d4/rBYO6R9Q_t.jpg', web_url='https://imgbox.com/rBYO6R9Q', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/18/d4/rBYO6R9Q_o.jpg",
             "job": {
                 "description": "Elegant and refined lady with a sharp tongue",
                 "fullname": "Darlave Olghrd",
@@ -1691,7 +1838,8 @@
             "generation": "young",
             "hair": "long and curly",
             "height": "short",
-            "img_path": "portraits/Softshadow Darlave.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Darlave.jpg', filename='Softshadow Darlave.jpg', image_url='https://images2.imgbox.com/6c/47/HnmosPla_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/6c/47/HnmosPla_t.jpg', web_url='https://imgbox.com/HnmosPla', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/6c/47/HnmosPla_o.jpg",
             "job": {
                 "description": "Dreamy youngest daughter with a passion for storytelling",
                 "fullname": "Darlave Softshadow",
@@ -1738,7 +1886,8 @@
             "generation": "mid",
             "hair": "bald",
             "height": "average",
-            "img_path": "portraits/Softshadow Decklin.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Decklin.jpg', filename='Softshadow Decklin.jpg', image_url='https://images2.imgbox.com/c6/2e/tbTfs39B_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/c6/2e/tbTfs39B_t.jpg', web_url='https://imgbox.com/tbTfs39B', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/c6/2e/tbTfs39B_o.jpg",
             "name": "Decklin",
             "nickname": "Dekk",
             "origin": "native",
@@ -1772,7 +1921,8 @@
             "generation": "mid",
             "hair": "Short, black hair with a thick moustache",
             "height": "tall",
-            "img_path": "portraits/Talbot Degar.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Talbot Degar.jpg', filename='Talbot Degar.jpg', image_url='https://images2.imgbox.com/b4/34/iR4RwgIZ_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/b4/34/iR4RwgIZ_t.jpg', web_url='https://imgbox.com/iR4RwgIZ', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/b4/34/iR4RwgIZ_o.jpg",
             "name": "Degar",
             "nickname": "Degy",
             "origin": "outsider",
@@ -1806,7 +1956,8 @@
             "generation": "mid",
             "hair": "short and red",
             "height": "average",
-            "img_path": "portraits/Fortros Durke.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Fortros Durke.jpg', filename='Fortros Durke.jpg', image_url='https://images2.imgbox.com/56/9a/pfBwzR0O_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/56/9a/pfBwzR0O_t.jpg', web_url='https://imgbox.com/pfBwzR0O', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/56/9a/pfBwzR0O_o.jpg",
             "job": {
                 "description": "Skilled blacksmith, quiet but fiercely loyal",
                 "fullname": "Durke Fortros",
@@ -1865,7 +2016,8 @@
             "hair": "medium-length and blonde, with a trimmed beard",
             "height": "tall",
             "history": "Ecken was born and raised in Crystalhold, and has lived there his whole life. He grew up on the family farm and learned the ins and outs of farming from a young age. Ecken's natural leadership abilities were evident even as a child, and he quickly became the de facto leader of his group of friends. As he got older, Ecken's ambitions grew, and he set his sights on becoming the tribal leader of the Belgre family. With his natural charisma and hard work, Ecken achieved his goal at a relatively young age, and has been leading the Belgre tribe ever since.",
-            "img_path": "portraits/Belgre Ecken.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Ecken.jpg', filename='Belgre Ecken.jpg', image_url='https://images2.imgbox.com/dd/19/wc8N23rM_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/dd/19/wc8N23rM_t.jpg', web_url='https://imgbox.com/wc8N23rM', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/dd/19/wc8N23rM_o.jpg",
             "job": {
                 "description": "Ambitious and hardworking, eager to learn",
                 "fullname": "Ecken Belgre",
@@ -1924,7 +2076,8 @@
             "generation": "young",
             "hair": "Short messy hair - black",
             "height": "short",
-            "img_path": "portraits/Olghrd Freitag.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Freitag.jpg', filename='Olghrd Freitag.jpg', image_url='https://images2.imgbox.com/47/06/sbmwZviR_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/47/06/sbmwZviR_t.jpg', web_url='https://imgbox.com/sbmwZviR', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/47/06/sbmwZviR_o.jpg",
             "name": "Freitag",
             "nickname": "Freggy",
             "origin": "native",
@@ -1958,7 +2111,8 @@
             "generation": "mid",
             "hair": "short, wavy and brown",
             "height": "average",
-            "img_path": "portraits/Belgre Galtar.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Galtar.jpg', filename='Belgre Galtar.jpg', image_url='https://images2.imgbox.com/31/5f/m0VQMboL_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/31/5f/m0VQMboL_t.jpg', web_url='https://imgbox.com/m0VQMboL', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/31/5f/m0VQMboL_o.jpg",
             "job": {
                 "description": "Jovial and outgoing, always eager to help",
                 "fullname": "Galtar Belgre",
@@ -2005,7 +2159,8 @@
             "generation": "mid",
             "hair": "short and curly",
             "height": "average",
-            "img_path": "portraits/Softshadow Galtar.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Galtar.jpg', filename='Softshadow Galtar.jpg', image_url='https://images2.imgbox.com/2f/44/hCLC78AV_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/2f/44/hCLC78AV_t.jpg', web_url='https://imgbox.com/hCLC78AV', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/2f/44/hCLC78AV_o.jpg",
             "job": {
                 "description": "elderly grandfather with a wealth of experience",
                 "fullname": "Galtar Softshadow",
@@ -2052,7 +2207,8 @@
             "generation": "young",
             "hair": "short brown",
             "height": "short",
-            "img_path": "portraits/Durkin Gamack.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Gamack.jpg', filename='Durkin Gamack.jpg', image_url='https://images2.imgbox.com/e5/08/Gg9ER35G_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/e5/08/Gg9ER35G_t.jpg', web_url='https://imgbox.com/Gg9ER35G', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/e5/08/Gg9ER35G_o.jpg",
             "name": "Gamack",
             "nickname": "\"Gammer\"",
             "origin": "native",
@@ -2086,7 +2242,8 @@
             "generation": "mid",
             "hair": "Short and spiky - black",
             "height": "average",
-            "img_path": "portraits/Olghrd Gamack.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Gamack.jpg', filename='Olghrd Gamack.jpg', image_url='https://images2.imgbox.com/ca/0c/MMOAmlz2_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/ca/0c/MMOAmlz2_t.jpg', web_url='https://imgbox.com/MMOAmlz2', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/ca/0c/MMOAmlz2_o.jpg",
             "job": {
                 "description": "Skilled metalworker with a wild side",
                 "fullname": "Gamack Olghrd",
@@ -2146,7 +2303,8 @@
             "hair": "long blonde",
             "height": "short",
             "history": "Garline was born and raised in Crystalhold as the eldest daughter of Havelock and Geduve Durkin. She had always been interested in her grandfather's stories of their family's legacy of fine craftsmanship and gem cutting. At a young age, she began showing a natural talent for metalworking and started her apprenticeship at Steadfast Mining Company shortly after reaching adulthood. Garline has worked tirelessly to refine her skills and gain recognition for her craftsmanship. Despite facing obstacles and criticism from some of her peers, she remains determined to make a name for herself in the industry.",
-            "img_path": "portraits/Durkin Garline.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Garline.jpg', filename='Durkin Garline.jpg', image_url='https://images2.imgbox.com/93/c6/fL11hf3n_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/93/c6/fL11hf3n_t.jpg', web_url='https://imgbox.com/fL11hf3n', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/93/c6/fL11hf3n_o.jpg",
             "job": {
                 "description": "confident and ambitious, with a sharp wit",
                 "fullname": "Garline Durkin",
@@ -2205,7 +2363,8 @@
             "generation": "young",
             "hair": "long and braided",
             "height": "short",
-            "img_path": "portraits/Softshadow Gedine.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Gedine.jpg', filename='Softshadow Gedine.jpg', image_url='https://images2.imgbox.com/2b/c7/ntNZy4w8_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/2b/c7/ntNZy4w8_t.jpg', web_url='https://imgbox.com/ntNZy4w8', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/2b/c7/ntNZy4w8_o.jpg",
             "name": "Gedine",
             "nickname": "Gedi",
             "origin": "native",
@@ -2239,7 +2398,8 @@
             "generation": "mid",
             "hair": "curly brown",
             "height": "short",
-            "img_path": "portraits/Durkin Geduve.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Geduve.jpg', filename='Durkin Geduve.jpg', image_url='https://images2.imgbox.com/1d/f1/nhFKaQde_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/1d/f1/nhFKaQde_t.jpg', web_url='https://imgbox.com/nhFKaQde', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/1d/f1/nhFKaQde_o.jpg",
             "job": {
                 "description": "Kind-hearted and nurturing with a mischievous streak",
                 "fullname": "Geduve Durkin",
@@ -2286,7 +2446,8 @@
             "generation": "young",
             "hair": "curls of various lengths and shades of brown",
             "height": "short",
-            "img_path": "portraits/Steadfast Girta.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Girta.jpg', filename='Steadfast Girta.jpg', image_url='https://images2.imgbox.com/62/3d/RptMro9e_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/62/3d/RptMro9e_t.jpg', web_url='https://imgbox.com/RptMro9e', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/62/3d/RptMro9e_o.jpg",
             "job": {
                 "description": "Eager and curious child, always asking questions",
                 "fullname": "Girta Steadfast",
@@ -2333,7 +2494,8 @@
             "generation": "old",
             "hair": "short and curly",
             "height": "average",
-            "img_path": "portraits/Wroughthammer Girta.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Wroughthammer Girta.jpg', filename='Wroughthammer Girta.jpg', image_url='https://images2.imgbox.com/b7/ed/RDgIapIZ_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/b7/ed/RDgIapIZ_t.jpg', web_url='https://imgbox.com/RDgIapIZ', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/b7/ed/RDgIapIZ_o.jpg",
             "name": "Girta",
             "nickname": "none",
             "origin": "outsider",
@@ -2380,7 +2542,8 @@
             "hair": "short and braided",
             "height": "average",
             "history": "Gorina's family has a long history in Crystalhold, dating back to the time of the Old One. Her ancestors were skilled miners and blacksmiths and their legacy lives on through Forgemasters' Den. Gorina's grandfather, Galtar Softshadow, taught her the basics of blacksmithing when she was just a child and she has been honing her skills ever since. However, lately, she has been worried about the increasing goblin raids in the area and fears that they may harm her family's business.",
-            "img_path": "portraits/Softshadow Gorina.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Gorina.jpg', filename='Softshadow Gorina.jpg', image_url='https://images2.imgbox.com/a2/ec/TbhVzz1Y_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/a2/ec/TbhVzz1Y_t.jpg', web_url='https://imgbox.com/TbhVzz1Y', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/a2/ec/TbhVzz1Y_o.jpg",
             "job": {
                 "description": "Serious-minded daughter with a keen eye for detail",
                 "fullname": "Gorina Softshadow",
@@ -2453,7 +2616,8 @@
             "hair": "white and short",
             "height": "short",
             "history": "Gorina was born in Crystalhold and has lived there all her life. She comes from a long line of skilled blacksmiths, and her family has always been involved in mining and metalworking. Gorina's father passed away when she was young, and her mother remarried. Her stepfather was not a blacksmith and had no interest in metalworking, so Gorina had to learn everything she knows from her grandfather. When she was 25, Gorina married her spouse, who was a miner. They had two children together, but Gorina later discovered that her spouse was not the father of her children. She decided to raise her children as her own and never told anyone about the truth.\nGorina has always been an outsider in Crystalhold because of her family's origins. Still, she managed to gain the respect of the community thanks to her hard work and resilience. When she was 50, Gorina became one of the bosses at the Forgemasters' Den and has been working there ever since.",
-            "img_path": "portraits/Wroughthammer Gorina.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Wroughthammer Gorina.jpg', filename='Wroughthammer Gorina.jpg', image_url='https://images2.imgbox.com/f1/ce/zQgRNqJS_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/f1/ce/zQgRNqJS_t.jpg', web_url='https://imgbox.com/zQgRNqJS', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/f1/ce/zQgRNqJS_o.jpg",
             "job": {
                 "description": "Wise matriarch of the Borgho clan",
                 "fullname": "Gorina Wroughthammer",
@@ -2511,7 +2675,8 @@
             "generation": "mid",
             "hair": "Clean shaven with bald head - wrinkled skin",
             "height": "short",
-            "img_path": "portraits/Olghrd Gruhn.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Gruhn.jpg', filename='Olghrd Gruhn.jpg', image_url='https://images2.imgbox.com/75/7f/bH5B5cKT_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/75/7f/bH5B5cKT_t.jpg', web_url='https://imgbox.com/bH5B5cKT', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/75/7f/bH5B5cKT_o.jpg",
             "name": "Gruhn",
             "nickname": "Gru",
             "origin": "native",
@@ -2545,7 +2710,8 @@
             "generation": "mid",
             "hair": "short grey",
             "height": "average",
-            "img_path": "portraits/Durkin Havelock.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Havelock.jpg', filename='Durkin Havelock.jpg', image_url='https://images2.imgbox.com/34/df/6ULTJoPn_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/34/df/6ULTJoPn_t.jpg', web_url='https://imgbox.com/6ULTJoPn', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/34/df/6ULTJoPn_o.jpg",
             "name": "Havelock",
             "nickname": "\"Havvy\"",
             "origin": "native",
@@ -2579,7 +2745,8 @@
             "generation": "old",
             "hair": "long and tied back in a bun",
             "height": "short",
-            "img_path": "portraits/Softshadow Heleth.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Heleth.jpg', filename='Softshadow Heleth.jpg', image_url='https://images2.imgbox.com/cf/13/0TQ5Vv7k_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/cf/13/0TQ5Vv7k_t.jpg', web_url='https://imgbox.com/0TQ5Vv7k', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/cf/13/0TQ5Vv7k_o.jpg",
             "name": "Heleth",
             "nickname": "Helle",
             "origin": "native",
@@ -2613,7 +2780,8 @@
             "generation": "mid",
             "hair": "Long and braided auburn hair",
             "height": "average",
-            "img_path": "portraits/Wroughthammer Heleth.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Wroughthammer Heleth.jpg', filename='Wroughthammer Heleth.jpg', image_url='https://images2.imgbox.com/a1/44/FwHd8l2G_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/a1/44/FwHd8l2G_t.jpg', web_url='https://imgbox.com/FwHd8l2G', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/a1/44/FwHd8l2G_o.jpg",
             "job": {
                 "description": "Outgoing, adventurous, always looking for a good time",
                 "fullname": "Heleth Wroughthammer",
@@ -2660,7 +2828,8 @@
             "generation": "mid",
             "hair": "short and pulled back in a bun",
             "height": "average",
-            "img_path": "portraits/Softshadow Hiln.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Hiln.jpg', filename='Softshadow Hiln.jpg', image_url='https://images2.imgbox.com/d8/6f/dqQKc7NQ_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/d8/6f/dqQKc7NQ_t.jpg', web_url='https://imgbox.com/dqQKc7NQ', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/d8/6f/dqQKc7NQ_o.jpg",
             "name": "Hiln",
             "nickname": "Hillie",
             "origin": "native",
@@ -2694,7 +2863,8 @@
             "generation": "mid",
             "hair": "bald",
             "height": "small",
-            "img_path": "portraits/Lugro Holdur.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Lugro Holdur.jpg', filename='Lugro Holdur.jpg', image_url='https://images2.imgbox.com/db/2c/yPNaRet9_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/db/2c/yPNaRet9_t.jpg', web_url='https://imgbox.com/yPNaRet9', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/db/2c/yPNaRet9_o.jpg",
             "job": {
                 "description": "old timer with a few strange habits",
                 "fullname": "Holdur Lugro",
@@ -2741,7 +2911,8 @@
             "generation": "old",
             "hair": "short and scruffy",
             "height": "average",
-            "img_path": "portraits/Softshadow Jaldun.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Jaldun.jpg', filename='Softshadow Jaldun.jpg', image_url='https://images2.imgbox.com/5c/c8/KcTZlUC9_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/5c/c8/KcTZlUC9_t.jpg', web_url='https://imgbox.com/KcTZlUC9', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/5c/c8/KcTZlUC9_o.jpg",
             "job": {
                 "description": "Gruff uncle with a heart of gold",
                 "fullname": "Jaldun Softshadow",
@@ -2801,7 +2972,8 @@
             "hair": "shaved bald",
             "height": "average",
             "history": "Jurg was born and raised in Crystalhold, where his family has lived for generations. His father, Havelock, is the leader of the family and expects him to follow in his footsteps and become a miner. However, Jurg has always dreamed of leaving Crystalhold and exploring the world. He often clashed with his father over this and felt misunderstood and trapped in his small hometown. Jurg's grandfather, Bullin, was the only one who seemed to understand him and encouraged him to pursue his dreams. Over the years, Jurg became more and more frustrated with his life in Crystalhold and began secretly making plans to leave. However, he knew that leaving would mean abandoning his family and everything he had ever known.",
-            "img_path": "portraits/Durkin Jurg.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Jurg.jpg', filename='Durkin Jurg.jpg', image_url='https://images2.imgbox.com/00/10/AanQEkZm_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/00/10/AanQEkZm_t.jpg', web_url='https://imgbox.com/AanQEkZm', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/00/10/AanQEkZm_o.jpg",
             "job": {
                 "description": "hot-headed, quick with an axe",
                 "fullname": "Jurg Durkin",
@@ -2861,7 +3033,8 @@
             "generation": "young",
             "hair": "Chin-length and well groomed - red",
             "height": "tall",
-            "img_path": "portraits/Olghrd Jurg.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Jurg.jpg', filename='Olghrd Jurg.jpg', image_url='https://images2.imgbox.com/cc/1e/YhJjCHaw_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/cc/1e/YhJjCHaw_t.jpg', web_url='https://imgbox.com/YhJjCHaw', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/cc/1e/YhJjCHaw_o.jpg",
             "name": "Jurg",
             "nickname": "Juice",
             "origin": "native",
@@ -2895,7 +3068,8 @@
             "generation": "mid",
             "hair": "short and spiky",
             "height": "short",
-            "img_path": "portraits/Steadfast Kalmon.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Kalmon.jpg', filename='Steadfast Kalmon.jpg', image_url='https://images2.imgbox.com/b7/64/tr2mXo6r_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/b7/64/tr2mXo6r_t.jpg', web_url='https://imgbox.com/tr2mXo6r', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/b7/64/tr2mXo6r_o.jpg",
             "job": {
                 "description": "Energetic and ambitious miner, with a talent for detecting ore",
                 "fullname": "Kalmon Steadfast",
@@ -2942,7 +3116,8 @@
             "generation": "young",
             "hair": "Short pigtails - blonde",
             "height": "small",
-            "img_path": "portraits/Olghrd Mendine.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Mendine.jpg', filename='Olghrd Mendine.jpg', image_url='https://images2.imgbox.com/e2/83/yCb53Ia1_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/e2/83/yCb53Ia1_t.jpg', web_url='https://imgbox.com/yCb53Ia1', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/e2/83/yCb53Ia1_o.jpg",
             "name": "Mendine",
             "nickname": "Mendi",
             "origin": "native",
@@ -2976,7 +3151,8 @@
             "generation": "young",
             "hair": "braided and dark brown",
             "height": "average",
-            "img_path": "portraits/Belgre Sartine.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Sartine.jpg', filename='Belgre Sartine.jpg', image_url='https://images2.imgbox.com/c2/50/RSDeyvDO_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/c2/50/RSDeyvDO_t.jpg', web_url='https://imgbox.com/RSDeyvDO', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/c2/50/RSDeyvDO_o.jpg",
             "job": {
                 "description": "Curious and adventurous, always eager to learn",
                 "fullname": "Sartine Belgre",
@@ -3023,7 +3199,8 @@
             "generation": "young",
             "hair": "Shoulder-length and unkempt - brown",
             "height": "average",
-            "img_path": "portraits/Olghrd Sartine.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Sartine.jpg', filename='Olghrd Sartine.jpg', image_url='https://images2.imgbox.com/08/b0/o89kgfmw_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/08/b0/o89kgfmw_t.jpg', web_url='https://imgbox.com/o89kgfmw', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/08/b0/o89kgfmw_o.jpg",
             "job": {
                 "description": "Quiet and studious young woman with a sharp mind",
                 "fullname": "Sartine Olghrd",
@@ -3070,7 +3247,8 @@
             "generation": "mid",
             "hair": "short and dark",
             "height": "average",
-            "img_path": "portraits/Serric Theldor.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Serric Theldor.jpg', filename='Serric Theldor.jpg', image_url='https://images2.imgbox.com/2a/3a/hzaSdQ8e_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/2a/3a/hzaSdQ8e_t.jpg', web_url='https://imgbox.com/hzaSdQ8e', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/2a/3a/hzaSdQ8e_o.jpg",
             "name": "Theldor",
             "nickname": "None",
             "origin": "outsider",
@@ -3104,7 +3282,8 @@
             "generation": "young",
             "hair": "short and unkempt",
             "height": "short",
-            "img_path": "portraits/Softshadow Theldor.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Theldor.jpg', filename='Softshadow Theldor.jpg', image_url='https://images2.imgbox.com/69/6c/Kup6Bp9D_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/69/6c/Kup6Bp9D_t.jpg', web_url='https://imgbox.com/Kup6Bp9D', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/69/6c/Kup6Bp9D_o.jpg",
             "name": "Theldor",
             "nickname": "Thel",
             "origin": "native",
@@ -3138,7 +3317,8 @@
             "generation": "old",
             "hair": "Long and unkempt - gray",
             "height": "short",
-            "img_path": "portraits/Olghrd Thorne.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Thorne.jpg', filename='Olghrd Thorne.jpg', image_url='https://images2.imgbox.com/15/0d/ZEnRNJ2C_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/15/0d/ZEnRNJ2C_t.jpg', web_url='https://imgbox.com/ZEnRNJ2C', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/15/0d/ZEnRNJ2C_o.jpg",
             "name": "Thorne",
             "nickname": "Thorn",
             "origin": "native",
@@ -3172,7 +3352,8 @@
             "generation": "mid",
             "hair": "long grey",
             "height": "average",
-            "img_path": "portraits/Durkin Torlith.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Torlith.jpg', filename='Durkin Torlith.jpg', image_url='https://images2.imgbox.com/ef/62/GVY9ZYUP_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/ef/62/GVY9ZYUP_t.jpg', web_url='https://imgbox.com/GVY9ZYUP', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/ef/62/GVY9ZYUP_o.jpg",
             "job": {
                 "description": "wise and perceptive, with a strong intuition",
                 "fullname": "Torlith Durkin",
@@ -3220,7 +3401,8 @@
             "generation": "old",
             "hair": "long and white",
             "height": "short",
-            "img_path": "portraits/Steadfast Torlith.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Torlith.jpg', filename='Steadfast Torlith.jpg', image_url='https://images2.imgbox.com/38/41/dW4rjH8L_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/38/41/dW4rjH8L_t.jpg', web_url='https://imgbox.com/dW4rjH8L', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/38/41/dW4rjH8L_o.jpg",
             "job": {
                 "description": "The backbone of the family, with a sharp tongue but a kind heart",
                 "fullname": "Torlith Steadfast",
@@ -3268,7 +3450,8 @@
             "generation": "old",
             "hair": "Short and curly - gray",
             "height": "short",
-            "img_path": "portraits/Olghrd Uhlith.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Uhlith.jpg', filename='Olghrd Uhlith.jpg', image_url='https://images2.imgbox.com/6d/84/rQjBYwVJ_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/6d/84/rQjBYwVJ_t.jpg', web_url='https://imgbox.com/rQjBYwVJ', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/6d/84/rQjBYwVJ_o.jpg",
             "name": "Uhlith",
             "nickname": "Ulia",
             "origin": "native",
@@ -3302,7 +3485,8 @@
             "generation": "young",
             "hair": "long and silky, light brown",
             "height": "short",
-            "img_path": "portraits/Belgre Ulave.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Ulave.jpg', filename='Belgre Ulave.jpg', image_url='https://images2.imgbox.com/44/40/w02WYRGb_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/44/40/w02WYRGb_t.jpg', web_url='https://imgbox.com/w02WYRGb', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/44/40/w02WYRGb_o.jpg",
             "job": {
                 "description": "Caring and nurturing, keeps the family together",
                 "fullname": "Ulave Belgre",
@@ -3349,7 +3533,8 @@
             "generation": "young",
             "hair": "long and braided",
             "height": "short",
-            "img_path": "portraits/Softshadow Ulave.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Ulave.jpg', filename='Softshadow Ulave.jpg', image_url='https://images2.imgbox.com/4e/9f/P0lRCV7S_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/4e/9f/P0lRCV7S_t.jpg', web_url='https://imgbox.com/P0lRCV7S', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/4e/9f/P0lRCV7S_o.jpg",
             "job": {
                 "description": "Timid granddaughter with a love of animals",
                 "fullname": "Ulave Softshadow",
@@ -3396,7 +3581,8 @@
             "generation": "mid",
             "hair": "short and straight",
             "height": "average",
-            "img_path": "portraits/Softshadow Vetta.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Vetta.jpg', filename='Softshadow Vetta.jpg', image_url='https://images2.imgbox.com/c7/76/jRFXGV2k_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/c7/76/jRFXGV2k_t.jpg', web_url='https://imgbox.com/jRFXGV2k', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/c7/76/jRFXGV2k_o.jpg",
             "name": "Vetta",
             "nickname": "Vettie",
             "origin": "native",
@@ -3430,7 +3616,8 @@
             "generation": "mid",
             "hair": "Short, silver hair",
             "height": "short",
-            "img_path": "portraits/Wroughthammer Vetta.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Wroughthammer Vetta.jpg', filename='Wroughthammer Vetta.jpg', image_url='https://images2.imgbox.com/2d/f6/CxxLCnBA_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/2d/f6/CxxLCnBA_t.jpg', web_url='https://imgbox.com/CxxLCnBA', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/2d/f6/CxxLCnBA_o.jpg",
             "name": "Vetta",
             "nickname": "Grandma V",
             "origin": "outsider",
@@ -3479,7 +3666,8 @@
             "generation": "mid",
             "hair": "Short and scruffy - brown",
             "height": "average",
-            "img_path": "portraits/Olghrd Admon.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Admon.jpg', filename='Olghrd Admon.jpg', image_url='https://images2.imgbox.com/12/ca/Ppk29f8Q_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/12/ca/Ppk29f8Q_t.jpg', web_url='https://imgbox.com/Ppk29f8Q', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/12/ca/Ppk29f8Q_o.jpg",
             "job": {
                 "description": "Ambitious and hardworking, eager to prove himself",
                 "fullname": "Admon Olghrd",
@@ -3526,7 +3714,8 @@
             "generation": "old",
             "hair": "Short, grey hair",
             "height": "average",
-            "img_path": "portraits/Darkmantle Ardin.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Darkmantle Ardin.jpg', filename='Darkmantle Ardin.jpg', image_url='https://images2.imgbox.com/93/e4/sj4tH14h_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/93/e4/sj4tH14h_t.jpg', web_url='https://imgbox.com/sj4tH14h', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/93/e4/sj4tH14h_o.jpg",
             "name": "Ardin",
             "nickname": "The Good-Natured Old Timer",
             "origin": "outsider",
@@ -3560,7 +3749,8 @@
             "generation": "young",
             "hair": "messy, light brown",
             "height": "short",
-            "img_path": "portraits/Belgre Barl.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Barl.jpg', filename='Belgre Barl.jpg', image_url='https://images2.imgbox.com/e6/d5/V1J5hUPz_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/e6/d5/V1J5hUPz_t.jpg', web_url='https://imgbox.com/V1J5hUPz', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/e6/d5/V1J5hUPz_o.jpg",
             "job": {
                 "description": "Playful and mischievous, enjoys helping out around the farm",
                 "fullname": "Barl Belgre",
@@ -3607,7 +3797,8 @@
             "generation": "young",
             "hair": "short, black",
             "height": "average",
-            "img_path": "portraits/Oreblood Barl.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Oreblood Barl.jpg', filename='Oreblood Barl.jpg', image_url='https://images2.imgbox.com/15/77/4LQ0x3qe_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/15/77/4LQ0x3qe_t.jpg', web_url='https://imgbox.com/4LQ0x3qe', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/15/77/4LQ0x3qe_o.jpg",
             "job": {
                 "description": "Talented jeweler, often lost in his thoughts",
                 "fullname": "Barl Oreblood",
@@ -3654,7 +3845,8 @@
             "generation": "mid",
             "hair": "short brown",
             "height": "average",
-            "img_path": "portraits/Durkin Bartan.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Bartan.jpg', filename='Durkin Bartan.jpg', image_url='https://images2.imgbox.com/09/71/Pfy6zdML_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/09/71/Pfy6zdML_t.jpg', web_url='https://imgbox.com/Pfy6zdML', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/09/71/Pfy6zdML_o.jpg",
             "job": {
                 "description": "hard-working and practical, with a dry sense of humor",
                 "fullname": "Bartan Durkin",
@@ -3714,7 +3906,8 @@
             "hair": "Long and flowing - red",
             "height": "average",
             "history": "Bartan was born and raised in Crystalhold, and comes from a long line of skilled blacksmiths. His father and grandfather both worked at Forgemasters' Den before him, and he takes great pride in continuing their legacy. Bartan married his childhood sweetheart, Uhlith, and together they have raised a large family. He is particularly close to his oldest son, Jurg, who he hopes will one day take over the family business.",
-            "img_path": "portraits/Olghrd Bartan.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Bartan.jpg', filename='Olghrd Bartan.jpg', image_url='https://images2.imgbox.com/3d/8f/qDEgRXXO_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/3d/8f/qDEgRXXO_t.jpg', web_url='https://imgbox.com/qDEgRXXO', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/3d/8f/qDEgRXXO_o.jpg",
             "job": {
                 "description": "Wise leader with a sharp tongue",
                 "fullname": "Bartan Olghrd",
@@ -3779,7 +3972,8 @@
             "generation": "mid",
             "hair": "short and slicked back",
             "height": "tall",
-            "img_path": "portraits/Softshadow Bindar.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Bindar.jpg', filename='Softshadow Bindar.jpg', image_url='https://images2.imgbox.com/cd/36/vzVTJ0HA_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/cd/36/vzVTJ0HA_t.jpg', web_url='https://imgbox.com/vzVTJ0HA', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/cd/36/vzVTJ0HA_o.jpg",
             "job": {
                 "description": "Greedy cousin with a talent for scheming",
                 "fullname": "Bindar Softshadow",
@@ -3838,7 +4032,8 @@
             "hair": "thick white beard and hair",
             "height": "tall",
             "history": "Bindar was born into the Steadfast family, one of the native families of Crystalhold. As a young dwarf, he showed a talent for mining and quickly rose through the ranks to become a respected senior miner. When his father passed away, Bindar became the family chief, a role he has held for many years. Throughout his life, Bindar has seen the ups and downs of Crystalhold's mining industry, but he has always remained steadfast in his commitment to the town and its people.",
-            "img_path": "portraits/Steadfast Bindar.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Bindar.jpg', filename='Steadfast Bindar.jpg', image_url='https://images2.imgbox.com/08/9c/2yR21D9T_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/08/9c/2yR21D9T_t.jpg', web_url='https://imgbox.com/2yR21D9T', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/08/9c/2yR21D9T_o.jpg",
             "job": {
                 "description": "experienced and respected miner, who has overseen many major breakthroughs and accidents alike",
                 "fullname": "Bindar Steadfast",
@@ -3901,7 +4096,8 @@
             "generation": "old",
             "hair": "balding grey",
             "height": "short",
-            "img_path": "portraits/Durkin Bullin.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Bullin.jpg', filename='Durkin Bullin.jpg', image_url='https://images2.imgbox.com/4d/de/TXAk90EK_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/4d/de/TXAk90EK_t.jpg', web_url='https://imgbox.com/TXAk90EK', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/4d/de/TXAk90EK_o.jpg",
             "job": {
                 "description": "stoic and wise, always ready with a story",
                 "fullname": "Bullin Durkin",
@@ -3948,7 +4144,8 @@
             "generation": "old",
             "hair": "long and grey",
             "height": "short",
-            "img_path": "portraits/Urdro Burnev.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Urdro Burnev.jpg', filename='Urdro Burnev.jpg', image_url='https://images2.imgbox.com/65/86/095TnJ2i_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/65/86/095TnJ2i_t.jpg', web_url='https://imgbox.com/095TnJ2i', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/65/86/095TnJ2i_o.jpg",
             "job": {
                 "description": "Elderly but still sharp and fiercely independent",
                 "fullname": "Burnev Urdro",
@@ -3995,7 +4192,8 @@
             "generation": "mid",
             "hair": "long and straight",
             "height": "average",
-            "img_path": "portraits/Softshadow Cathro.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Cathro.jpg', filename='Softshadow Cathro.jpg', image_url='https://images2.imgbox.com/f0/ef/nbVZRyvy_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/f0/ef/nbVZRyvy_t.jpg', web_url='https://imgbox.com/nbVZRyvy', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/f0/ef/nbVZRyvy_o.jpg",
             "name": "Cathro",
             "nickname": "Cat",
             "origin": "native",
@@ -4029,7 +4227,8 @@
             "generation": "young",
             "hair": "short and curly",
             "height": "short",
-            "img_path": "portraits/Steadfast Cathro.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Cathro.jpg', filename='Steadfast Cathro.jpg', image_url='https://images2.imgbox.com/d1/d8/w7ZRSGbZ_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/d1/d8/w7ZRSGbZ_t.jpg', web_url='https://imgbox.com/w7ZRSGbZ', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/d1/d8/w7ZRSGbZ_o.jpg",
             "name": "Cathro",
             "nickname": "",
             "origin": "native",
@@ -4063,7 +4262,8 @@
             "generation": "mid",
             "hair": "Short, curly brown hair",
             "height": "short",
-            "img_path": "portraits/Lugro Crieda.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Lugro Crieda.jpg', filename='Lugro Crieda.jpg', image_url='https://images2.imgbox.com/f1/29/9yg2JgVf_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/f1/29/9yg2JgVf_t.jpg', web_url='https://imgbox.com/9yg2JgVf', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/f1/29/9yg2JgVf_o.jpg",
             "name": "Crieda",
             "nickname": "Crie",
             "origin": "outsider",
@@ -4097,7 +4297,8 @@
             "generation": "young",
             "hair": "short and curly brown",
             "height": "short",
-            "img_path": "portraits/Durkin Darlave.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Darlave.jpg', filename='Durkin Darlave.jpg', image_url='https://images2.imgbox.com/fb/a9/lyJCJMtD_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/fb/a9/lyJCJMtD_t.jpg', web_url='https://imgbox.com/lyJCJMtD', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/fb/a9/lyJCJMtD_o.jpg",
             "job": {
                 "description": "Quiet and introspective with an artistic streak",
                 "fullname": "Darlave Durkin",
@@ -4145,7 +4346,8 @@
             "generation": "mid",
             "hair": "Short and curly - silver",
             "height": "average",
-            "img_path": "portraits/Olghrd Darlave.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Darlave.jpg', filename='Olghrd Darlave.jpg', image_url='https://images2.imgbox.com/18/d4/rBYO6R9Q_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/18/d4/rBYO6R9Q_t.jpg', web_url='https://imgbox.com/rBYO6R9Q', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/18/d4/rBYO6R9Q_o.jpg",
             "job": {
                 "description": "Elegant and refined lady with a sharp tongue",
                 "fullname": "Darlave Olghrd",
@@ -4192,7 +4394,8 @@
             "generation": "young",
             "hair": "long and curly",
             "height": "short",
-            "img_path": "portraits/Softshadow Darlave.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Darlave.jpg', filename='Softshadow Darlave.jpg', image_url='https://images2.imgbox.com/6c/47/HnmosPla_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/6c/47/HnmosPla_t.jpg', web_url='https://imgbox.com/HnmosPla', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/6c/47/HnmosPla_o.jpg",
             "job": {
                 "description": "Dreamy youngest daughter with a passion for storytelling",
                 "fullname": "Darlave Softshadow",
@@ -4239,7 +4442,8 @@
             "generation": "mid",
             "hair": "bald",
             "height": "average",
-            "img_path": "portraits/Softshadow Decklin.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Decklin.jpg', filename='Softshadow Decklin.jpg', image_url='https://images2.imgbox.com/c6/2e/tbTfs39B_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/c6/2e/tbTfs39B_t.jpg', web_url='https://imgbox.com/tbTfs39B', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/c6/2e/tbTfs39B_o.jpg",
             "name": "Decklin",
             "nickname": "Dekk",
             "origin": "native",
@@ -4273,7 +4477,8 @@
             "generation": "mid",
             "hair": "Short, black hair with a thick moustache",
             "height": "tall",
-            "img_path": "portraits/Talbot Degar.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Talbot Degar.jpg', filename='Talbot Degar.jpg', image_url='https://images2.imgbox.com/b4/34/iR4RwgIZ_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/b4/34/iR4RwgIZ_t.jpg', web_url='https://imgbox.com/iR4RwgIZ', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/b4/34/iR4RwgIZ_o.jpg",
             "name": "Degar",
             "nickname": "Degy",
             "origin": "outsider",
@@ -4319,7 +4524,8 @@
             "hair": "long and black, tied in a braid",
             "height": "average",
             "history": "Dunarl was born and raised in Crystalhold, where he learned the art of mining and craftsmanship from his father. As a young dwarf, he fell in love with Ulave and secretly married her against the wishes of his family. Together they built a life on Belgre Farmstead, where they raised a family and became well-respected members of the community. Dunarl's commitment to his tribe and the dwarven culture has never wavered, and he is determined to leave a lasting legacy for future generations.",
-            "img_path": "portraits/Belgre Dunarl.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Dunarl.jpg', filename='Belgre Dunarl.jpg', image_url='https://images2.imgbox.com/25/72/PX0F4Awm_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/25/72/PX0F4Awm_t.jpg', web_url='https://imgbox.com/PX0F4Awm', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/25/72/PX0F4Awm_o.jpg",
             "job": {
                 "description": "Stern but fair, respected leader",
                 "fullname": "Dunarl Belgre",
@@ -4390,7 +4596,8 @@
             "hair": "short and wild",
             "height": "tall",
             "history": "The Softshadow family is a native group that has been living in Crystalhold for generations. Durg's grandfather, Galtar, was a wise and patient man who shared his wealth of experience with the younger members of the family. Durg's father, Decklin, always wanted the best for his children and instilled in them the importance of protecting their family's legacy. Durg himself has grown into a strong-willed individual with a fierce sense of pride. His strained relationship with his sister Gorina began when she disagreed with his plans to build a stash of weapons. Despite this conflict, Durg is still respectful towards his father and values his opinion greatly.",
-            "img_path": "portraits/Softshadow Durg.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Durg.jpg', filename='Softshadow Durg.jpg', image_url='https://images2.imgbox.com/5a/2e/aNCRwNGn_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/5a/2e/aNCRwNGn_t.jpg', web_url='https://imgbox.com/aNCRwNGn', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/5a/2e/aNCRwNGn_o.jpg",
             "job": {
                 "description": "Strong-willed eldest son with a fierce sense of pride",
                 "fullname": "Durg Softshadow",
@@ -4457,7 +4664,8 @@
             "generation": "mid",
             "hair": "short and red",
             "height": "average",
-            "img_path": "portraits/Fortros Durke.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Fortros Durke.jpg', filename='Fortros Durke.jpg', image_url='https://images2.imgbox.com/56/9a/pfBwzR0O_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/56/9a/pfBwzR0O_t.jpg', web_url='https://imgbox.com/pfBwzR0O', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/56/9a/pfBwzR0O_o.jpg",
             "job": {
                 "description": "Skilled blacksmith, quiet but fiercely loyal",
                 "fullname": "Durke Fortros",
@@ -4516,7 +4724,8 @@
             "hair": "medium-length and blonde, with a trimmed beard",
             "height": "tall",
             "history": "Ecken was born and raised in Crystalhold, and has lived there his whole life. He grew up on the family farm and learned the ins and outs of farming from a young age. Ecken's natural leadership abilities were evident even as a child, and he quickly became the de facto leader of his group of friends. As he got older, Ecken's ambitions grew, and he set his sights on becoming the tribal leader of the Belgre family. With his natural charisma and hard work, Ecken achieved his goal at a relatively young age, and has been leading the Belgre tribe ever since.",
-            "img_path": "portraits/Belgre Ecken.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Ecken.jpg', filename='Belgre Ecken.jpg', image_url='https://images2.imgbox.com/dd/19/wc8N23rM_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/dd/19/wc8N23rM_t.jpg', web_url='https://imgbox.com/wc8N23rM', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/dd/19/wc8N23rM_o.jpg",
             "job": {
                 "description": "Ambitious and hardworking, eager to learn",
                 "fullname": "Ecken Belgre",
@@ -4575,7 +4784,8 @@
             "generation": "young",
             "hair": "Short messy hair - black",
             "height": "short",
-            "img_path": "portraits/Olghrd Freitag.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Freitag.jpg', filename='Olghrd Freitag.jpg', image_url='https://images2.imgbox.com/47/06/sbmwZviR_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/47/06/sbmwZviR_t.jpg', web_url='https://imgbox.com/sbmwZviR', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/47/06/sbmwZviR_o.jpg",
             "name": "Freitag",
             "nickname": "Freggy",
             "origin": "native",
@@ -4609,7 +4819,8 @@
             "generation": "mid",
             "hair": "short, wavy and brown",
             "height": "average",
-            "img_path": "portraits/Belgre Galtar.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Galtar.jpg', filename='Belgre Galtar.jpg', image_url='https://images2.imgbox.com/31/5f/m0VQMboL_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/31/5f/m0VQMboL_t.jpg', web_url='https://imgbox.com/m0VQMboL', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/31/5f/m0VQMboL_o.jpg",
             "job": {
                 "description": "Jovial and outgoing, always eager to help",
                 "fullname": "Galtar Belgre",
@@ -4656,7 +4867,8 @@
             "generation": "mid",
             "hair": "short and curly",
             "height": "average",
-            "img_path": "portraits/Softshadow Galtar.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Galtar.jpg', filename='Softshadow Galtar.jpg', image_url='https://images2.imgbox.com/2f/44/hCLC78AV_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/2f/44/hCLC78AV_t.jpg', web_url='https://imgbox.com/hCLC78AV', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/2f/44/hCLC78AV_o.jpg",
             "job": {
                 "description": "elderly grandfather with a wealth of experience",
                 "fullname": "Galtar Softshadow",
@@ -4716,7 +4928,8 @@
             "hair": "short and spiky",
             "height": "average",
             "history": "Galtar Whitnock was born in Crystalhold and has lived there his entire life. He comes from a long line of skilled craftsmen and learned the art of jewelry making from his father. Galtar's family is part of the Steadfast group, who have lived in Crystalhold for generations. The group is known for their resilience, hard work, and loyalty to each other. Galtar is proud of his family's legacy and hopes to continue it by creating stunning pieces of jewelry that will be remembered for years to come.",
-            "img_path": "portraits/Whitnock Galtar.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Whitnock Galtar.jpg', filename='Whitnock Galtar.jpg', image_url='https://images2.imgbox.com/1f/ce/iVEIMReD_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/1f/ce/iVEIMReD_t.jpg', web_url='https://imgbox.com/iVEIMReD', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/1f/ce/iVEIMReD_o.jpg",
             "job": {
                 "description": "tough but fair boss",
                 "fullname": "Galtar Whitnock",
@@ -4777,7 +4990,8 @@
             "generation": "young",
             "hair": "short brown",
             "height": "short",
-            "img_path": "portraits/Durkin Gamack.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Gamack.jpg', filename='Durkin Gamack.jpg', image_url='https://images2.imgbox.com/e5/08/Gg9ER35G_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/e5/08/Gg9ER35G_t.jpg', web_url='https://imgbox.com/Gg9ER35G', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/e5/08/Gg9ER35G_o.jpg",
             "name": "Gamack",
             "nickname": "\"Gammer\"",
             "origin": "native",
@@ -4811,7 +5025,8 @@
             "generation": "mid",
             "hair": "Short and spiky - black",
             "height": "average",
-            "img_path": "portraits/Olghrd Gamack.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Gamack.jpg', filename='Olghrd Gamack.jpg', image_url='https://images2.imgbox.com/ca/0c/MMOAmlz2_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/ca/0c/MMOAmlz2_t.jpg', web_url='https://imgbox.com/MMOAmlz2', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/ca/0c/MMOAmlz2_o.jpg",
             "job": {
                 "description": "Skilled metalworker with a wild side",
                 "fullname": "Gamack Olghrd",
@@ -4871,7 +5086,8 @@
             "hair": "long blonde",
             "height": "short",
             "history": "Garline was born and raised in Crystalhold as the eldest daughter of Havelock and Geduve Durkin. She had always been interested in her grandfather's stories of their family's legacy of fine craftsmanship and gem cutting. At a young age, she began showing a natural talent for metalworking and started her apprenticeship at Steadfast Mining Company shortly after reaching adulthood. Garline has worked tirelessly to refine her skills and gain recognition for her craftsmanship. Despite facing obstacles and criticism from some of her peers, she remains determined to make a name for herself in the industry.",
-            "img_path": "portraits/Durkin Garline.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Garline.jpg', filename='Durkin Garline.jpg', image_url='https://images2.imgbox.com/93/c6/fL11hf3n_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/93/c6/fL11hf3n_t.jpg', web_url='https://imgbox.com/fL11hf3n', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/93/c6/fL11hf3n_o.jpg",
             "job": {
                 "description": "confident and ambitious, with a sharp wit",
                 "fullname": "Garline Durkin",
@@ -4930,7 +5146,8 @@
             "generation": "young",
             "hair": "long and braided",
             "height": "short",
-            "img_path": "portraits/Softshadow Gedine.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Gedine.jpg', filename='Softshadow Gedine.jpg', image_url='https://images2.imgbox.com/2b/c7/ntNZy4w8_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/2b/c7/ntNZy4w8_t.jpg', web_url='https://imgbox.com/ntNZy4w8', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/2b/c7/ntNZy4w8_o.jpg",
             "name": "Gedine",
             "nickname": "Gedi",
             "origin": "native",
@@ -4976,7 +5193,8 @@
             "hair": "long and grey",
             "height": "average",
             "history": "Gedine comes from a long line of miners and craftsmen who have lived in Crystalhold for generations. Her family is the backbone of the community, providing jobs and leadership to the hamlet. Gedine herself has been a spiritual guide since she was a young dwarf, called to serve by a vision she had while working in the mines. She has dedicated her life to her community and her family, using her wisdom and experience to guide them through good times and bad.",
-            "img_path": "portraits/Steadfast Gedine.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Gedine.jpg', filename='Steadfast Gedine.jpg', image_url='https://images2.imgbox.com/55/d3/ZeXXEGlp_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/55/d3/ZeXXEGlp_t.jpg', web_url='https://imgbox.com/ZeXXEGlp', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/55/d3/ZeXXEGlp_o.jpg",
             "job": {
                 "description": "Storyteller and spiritual guide for the family",
                 "fullname": "Gedine Steadfast",
@@ -5034,7 +5252,8 @@
             "generation": "mid",
             "hair": "curly brown",
             "height": "short",
-            "img_path": "portraits/Durkin Geduve.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Geduve.jpg', filename='Durkin Geduve.jpg', image_url='https://images2.imgbox.com/1d/f1/nhFKaQde_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/1d/f1/nhFKaQde_t.jpg', web_url='https://imgbox.com/nhFKaQde', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/1d/f1/nhFKaQde_o.jpg",
             "job": {
                 "description": "Kind-hearted and nurturing with a mischievous streak",
                 "fullname": "Geduve Durkin",
@@ -5081,7 +5300,8 @@
             "generation": "young",
             "hair": "curls of various lengths and shades of brown",
             "height": "short",
-            "img_path": "portraits/Steadfast Girta.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Girta.jpg', filename='Steadfast Girta.jpg', image_url='https://images2.imgbox.com/62/3d/RptMro9e_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/62/3d/RptMro9e_t.jpg', web_url='https://imgbox.com/RptMro9e', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/62/3d/RptMro9e_o.jpg",
             "job": {
                 "description": "Eager and curious child, always asking questions",
                 "fullname": "Girta Steadfast",
@@ -5128,7 +5348,8 @@
             "generation": "old",
             "hair": "short and curly",
             "height": "average",
-            "img_path": "portraits/Wroughthammer Girta.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Wroughthammer Girta.jpg', filename='Wroughthammer Girta.jpg', image_url='https://images2.imgbox.com/b7/ed/RDgIapIZ_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/b7/ed/RDgIapIZ_t.jpg', web_url='https://imgbox.com/RDgIapIZ', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/b7/ed/RDgIapIZ_o.jpg",
             "name": "Girta",
             "nickname": "none",
             "origin": "outsider",
@@ -5175,7 +5396,8 @@
             "hair": "short and gray",
             "height": "small",
             "history": "Gorina Oreblood moved to Crystalhold from an outsider group and quickly made a name for herself as a skilled blacksmith. She eventually rose to lead the Blacksmithing guild at the Forgemasters' Den. Though she misses her former home, Gorina has found solace in the tight-knit community of Crystalhold and the camaraderie of her colleagues at the guild. She takes great pride in her work, viewing each piece she creates as a testament to her craft and a legacy for future generations.",
-            "img_path": "portraits/Oreblood Gorina.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Oreblood Gorina.jpg', filename='Oreblood Gorina.jpg', image_url='https://images2.imgbox.com/e4/51/ODWFNsFy_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/e4/51/ODWFNsFy_t.jpg', web_url='https://imgbox.com/ODWFNsFy', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/e4/51/ODWFNsFy_o.jpg",
             "job": {
                 "description": "Expert smith, revered in the community",
                 "fullname": "Gorina Oreblood",
@@ -5247,7 +5469,8 @@
             "hair": "short and braided",
             "height": "average",
             "history": "Gorina's family has a long history in Crystalhold, dating back to the time of the Old One. Her ancestors were skilled miners and blacksmiths and their legacy lives on through Forgemasters' Den. Gorina's grandfather, Galtar Softshadow, taught her the basics of blacksmithing when she was just a child and she has been honing her skills ever since. However, lately, she has been worried about the increasing goblin raids in the area and fears that they may harm her family's business.",
-            "img_path": "portraits/Softshadow Gorina.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Gorina.jpg', filename='Softshadow Gorina.jpg', image_url='https://images2.imgbox.com/a2/ec/TbhVzz1Y_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/a2/ec/TbhVzz1Y_t.jpg', web_url='https://imgbox.com/TbhVzz1Y', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/a2/ec/TbhVzz1Y_o.jpg",
             "job": {
                 "description": "Serious-minded daughter with a keen eye for detail",
                 "fullname": "Gorina Softshadow",
@@ -5322,7 +5545,8 @@
             "hair": "shoulder-length and auburn",
             "height": "average",
             "history": "Born and raised in Crystalhold, Gorina has always been fascinated by the city's mining heritage and the natural beauty of the surrounding mountains and caves. Her family, the Steadfast clan have been a part of the mining community for generations, with her elders passing down tales of the Old One and the riches hidden deep within the mountain. Growing up in a close-knit family, Gorina learned about metalsmithing and jewelry-making from her mother, who was skilled in the trade. Determined to follow in her footsteps, she studied hard and eventually joined Steadfast Mining Company as an apprentice jeweler. Over the years, Gorina has earned a reputation as one of the best jewelers in Crystalhold, thanks to her unique talent for turning flawed gems into stunning works of art. Despite her successes, she still seeks recognition and the chance to explore new horizons beyond her hometown.",
-            "img_path": "portraits/Steadfast Gorina.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Gorina.jpg', filename='Steadfast Gorina.jpg', image_url='https://images2.imgbox.com/cb/b2/E2bFJNTm_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/cb/b2/E2bFJNTm_t.jpg', web_url='https://imgbox.com/E2bFJNTm', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/cb/b2/E2bFJNTm_o.jpg",
             "job": {
                 "description": "Skilled jeweler and metalsmith, who turns flawed gems into works of art",
                 "fullname": "Gorina Steadfast",
@@ -5394,7 +5618,8 @@
             "hair": "white and short",
             "height": "short",
             "history": "Gorina was born in Crystalhold and has lived there all her life. She comes from a long line of skilled blacksmiths, and her family has always been involved in mining and metalworking. Gorina's father passed away when she was young, and her mother remarried. Her stepfather was not a blacksmith and had no interest in metalworking, so Gorina had to learn everything she knows from her grandfather. When she was 25, Gorina married her spouse, who was a miner. They had two children together, but Gorina later discovered that her spouse was not the father of her children. She decided to raise her children as her own and never told anyone about the truth.\nGorina has always been an outsider in Crystalhold because of her family's origins. Still, she managed to gain the respect of the community thanks to her hard work and resilience. When she was 50, Gorina became one of the bosses at the Forgemasters' Den and has been working there ever since.",
-            "img_path": "portraits/Wroughthammer Gorina.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Wroughthammer Gorina.jpg', filename='Wroughthammer Gorina.jpg', image_url='https://images2.imgbox.com/f1/ce/zQgRNqJS_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/f1/ce/zQgRNqJS_t.jpg', web_url='https://imgbox.com/zQgRNqJS', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/f1/ce/zQgRNqJS_o.jpg",
             "job": {
                 "description": "Wise matriarch of the Borgho clan",
                 "fullname": "Gorina Wroughthammer",
@@ -5452,7 +5677,8 @@
             "generation": "mid",
             "hair": "Clean shaven with bald head - wrinkled skin",
             "height": "short",
-            "img_path": "portraits/Olghrd Gruhn.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Gruhn.jpg', filename='Olghrd Gruhn.jpg', image_url='https://images2.imgbox.com/75/7f/bH5B5cKT_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/75/7f/bH5B5cKT_t.jpg', web_url='https://imgbox.com/bH5B5cKT', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/75/7f/bH5B5cKT_o.jpg",
             "name": "Gruhn",
             "nickname": "Gru",
             "origin": "native",
@@ -5486,7 +5712,8 @@
             "generation": "mid",
             "hair": "short grey",
             "height": "average",
-            "img_path": "portraits/Durkin Havelock.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Havelock.jpg', filename='Durkin Havelock.jpg', image_url='https://images2.imgbox.com/34/df/6ULTJoPn_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/34/df/6ULTJoPn_t.jpg', web_url='https://imgbox.com/6ULTJoPn', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/34/df/6ULTJoPn_o.jpg",
             "name": "Havelock",
             "nickname": "\"Havvy\"",
             "origin": "native",
@@ -5520,7 +5747,8 @@
             "generation": "old",
             "hair": "long and tied back in a bun",
             "height": "short",
-            "img_path": "portraits/Softshadow Heleth.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Heleth.jpg', filename='Softshadow Heleth.jpg', image_url='https://images2.imgbox.com/cf/13/0TQ5Vv7k_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/cf/13/0TQ5Vv7k_t.jpg', web_url='https://imgbox.com/0TQ5Vv7k', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/cf/13/0TQ5Vv7k_o.jpg",
             "name": "Heleth",
             "nickname": "Helle",
             "origin": "native",
@@ -5554,7 +5782,8 @@
             "generation": "mid",
             "hair": "Long and braided auburn hair",
             "height": "average",
-            "img_path": "portraits/Wroughthammer Heleth.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Wroughthammer Heleth.jpg', filename='Wroughthammer Heleth.jpg', image_url='https://images2.imgbox.com/a1/44/FwHd8l2G_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/a1/44/FwHd8l2G_t.jpg', web_url='https://imgbox.com/FwHd8l2G', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/a1/44/FwHd8l2G_o.jpg",
             "job": {
                 "description": "Outgoing, adventurous, always looking for a good time",
                 "fullname": "Heleth Wroughthammer",
@@ -5601,7 +5830,8 @@
             "generation": "mid",
             "hair": "short and pulled back in a bun",
             "height": "average",
-            "img_path": "portraits/Softshadow Hiln.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Hiln.jpg', filename='Softshadow Hiln.jpg', image_url='https://images2.imgbox.com/d8/6f/dqQKc7NQ_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/d8/6f/dqQKc7NQ_t.jpg', web_url='https://imgbox.com/dqQKc7NQ', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/d8/6f/dqQKc7NQ_o.jpg",
             "name": "Hiln",
             "nickname": "Hillie",
             "origin": "native",
@@ -5635,7 +5865,8 @@
             "generation": "mid",
             "hair": "bald",
             "height": "small",
-            "img_path": "portraits/Lugro Holdur.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Lugro Holdur.jpg', filename='Lugro Holdur.jpg', image_url='https://images2.imgbox.com/db/2c/yPNaRet9_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/db/2c/yPNaRet9_t.jpg', web_url='https://imgbox.com/yPNaRet9', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/db/2c/yPNaRet9_o.jpg",
             "job": {
                 "description": "old timer with a few strange habits",
                 "fullname": "Holdur Lugro",
@@ -5682,7 +5913,8 @@
             "generation": "old",
             "hair": "short and scruffy",
             "height": "average",
-            "img_path": "portraits/Softshadow Jaldun.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Jaldun.jpg', filename='Softshadow Jaldun.jpg', image_url='https://images2.imgbox.com/5c/c8/KcTZlUC9_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/5c/c8/KcTZlUC9_t.jpg', web_url='https://imgbox.com/KcTZlUC9', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/5c/c8/KcTZlUC9_o.jpg",
             "job": {
                 "description": "Gruff uncle with a heart of gold",
                 "fullname": "Jaldun Softshadow",
@@ -5742,7 +5974,8 @@
             "hair": "shaved bald",
             "height": "average",
             "history": "Jurg was born and raised in Crystalhold, where his family has lived for generations. His father, Havelock, is the leader of the family and expects him to follow in his footsteps and become a miner. However, Jurg has always dreamed of leaving Crystalhold and exploring the world. He often clashed with his father over this and felt misunderstood and trapped in his small hometown. Jurg's grandfather, Bullin, was the only one who seemed to understand him and encouraged him to pursue his dreams. Over the years, Jurg became more and more frustrated with his life in Crystalhold and began secretly making plans to leave. However, he knew that leaving would mean abandoning his family and everything he had ever known.",
-            "img_path": "portraits/Durkin Jurg.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Jurg.jpg', filename='Durkin Jurg.jpg', image_url='https://images2.imgbox.com/00/10/AanQEkZm_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/00/10/AanQEkZm_t.jpg', web_url='https://imgbox.com/AanQEkZm', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/00/10/AanQEkZm_o.jpg",
             "job": {
                 "description": "hot-headed, quick with an axe",
                 "fullname": "Jurg Durkin",
@@ -5802,7 +6035,8 @@
             "generation": "young",
             "hair": "Chin-length and well groomed - red",
             "height": "tall",
-            "img_path": "portraits/Olghrd Jurg.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Jurg.jpg', filename='Olghrd Jurg.jpg', image_url='https://images2.imgbox.com/cc/1e/YhJjCHaw_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/cc/1e/YhJjCHaw_t.jpg', web_url='https://imgbox.com/YhJjCHaw', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/cc/1e/YhJjCHaw_o.jpg",
             "name": "Jurg",
             "nickname": "Juice",
             "origin": "native",
@@ -5836,7 +6070,8 @@
             "generation": "mid",
             "hair": "short and spiky",
             "height": "short",
-            "img_path": "portraits/Steadfast Kalmon.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Kalmon.jpg', filename='Steadfast Kalmon.jpg', image_url='https://images2.imgbox.com/b7/64/tr2mXo6r_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/b7/64/tr2mXo6r_t.jpg', web_url='https://imgbox.com/tr2mXo6r', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/b7/64/tr2mXo6r_o.jpg",
             "job": {
                 "description": "Energetic and ambitious miner, with a talent for detecting ore",
                 "fullname": "Kalmon Steadfast",
@@ -5883,7 +6118,8 @@
             "generation": "young",
             "hair": "Short pigtails - blonde",
             "height": "small",
-            "img_path": "portraits/Olghrd Mendine.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Mendine.jpg', filename='Olghrd Mendine.jpg', image_url='https://images2.imgbox.com/e2/83/yCb53Ia1_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/e2/83/yCb53Ia1_t.jpg', web_url='https://imgbox.com/yCb53Ia1', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/e2/83/yCb53Ia1_o.jpg",
             "name": "Mendine",
             "nickname": "Mendi",
             "origin": "native",
@@ -5917,7 +6153,8 @@
             "generation": "young",
             "hair": "braided and dark brown",
             "height": "average",
-            "img_path": "portraits/Belgre Sartine.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Sartine.jpg', filename='Belgre Sartine.jpg', image_url='https://images2.imgbox.com/c2/50/RSDeyvDO_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/c2/50/RSDeyvDO_t.jpg', web_url='https://imgbox.com/RSDeyvDO', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/c2/50/RSDeyvDO_o.jpg",
             "job": {
                 "description": "Curious and adventurous, always eager to learn",
                 "fullname": "Sartine Belgre",
@@ -5964,7 +6201,8 @@
             "generation": "young",
             "hair": "Shoulder-length and unkempt - brown",
             "height": "average",
-            "img_path": "portraits/Olghrd Sartine.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Sartine.jpg', filename='Olghrd Sartine.jpg', image_url='https://images2.imgbox.com/08/b0/o89kgfmw_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/08/b0/o89kgfmw_t.jpg', web_url='https://imgbox.com/o89kgfmw', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/08/b0/o89kgfmw_o.jpg",
             "job": {
                 "description": "Quiet and studious young woman with a sharp mind",
                 "fullname": "Sartine Olghrd",
@@ -6011,7 +6249,8 @@
             "generation": "mid",
             "hair": "short and dark",
             "height": "average",
-            "img_path": "portraits/Serric Theldor.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Serric Theldor.jpg', filename='Serric Theldor.jpg', image_url='https://images2.imgbox.com/2a/3a/hzaSdQ8e_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/2a/3a/hzaSdQ8e_t.jpg', web_url='https://imgbox.com/hzaSdQ8e', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/2a/3a/hzaSdQ8e_o.jpg",
             "name": "Theldor",
             "nickname": "None",
             "origin": "outsider",
@@ -6045,7 +6284,8 @@
             "generation": "young",
             "hair": "short and unkempt",
             "height": "short",
-            "img_path": "portraits/Softshadow Theldor.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Theldor.jpg', filename='Softshadow Theldor.jpg', image_url='https://images2.imgbox.com/69/6c/Kup6Bp9D_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/69/6c/Kup6Bp9D_t.jpg', web_url='https://imgbox.com/Kup6Bp9D', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/69/6c/Kup6Bp9D_o.jpg",
             "name": "Theldor",
             "nickname": "Thel",
             "origin": "native",
@@ -6079,7 +6319,8 @@
             "generation": "old",
             "hair": "Long and unkempt - gray",
             "height": "short",
-            "img_path": "portraits/Olghrd Thorne.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Thorne.jpg', filename='Olghrd Thorne.jpg', image_url='https://images2.imgbox.com/15/0d/ZEnRNJ2C_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/15/0d/ZEnRNJ2C_t.jpg', web_url='https://imgbox.com/ZEnRNJ2C', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/15/0d/ZEnRNJ2C_o.jpg",
             "name": "Thorne",
             "nickname": "Thorn",
             "origin": "native",
@@ -6126,7 +6367,8 @@
             "hair": "long and gray, tied in a braid",
             "height": "small",
             "history": "Torlith was born and raised in Crystalhold, and has lived there her whole life. She comes from a long line of miners and farmers, and takes pride in her family's legacy. Torlith has seen much in her years, including the rise and fall of many mining operations in the region. She has weathered both good times and bad, and remains committed to her community and its people.",
-            "img_path": "portraits/Belgre Torlith.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Torlith.jpg', filename='Belgre Torlith.jpg', image_url='https://images2.imgbox.com/3a/e6/M5P51rcZ_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/3a/e6/M5P51rcZ_t.jpg', web_url='https://imgbox.com/M5P51rcZ', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/3a/e6/M5P51rcZ_o.jpg",
             "job": {
                 "description": "Wise and venerable, the moral compass of the family",
                 "fullname": "Torlith Belgre",
@@ -6192,7 +6434,8 @@
             "generation": "mid",
             "hair": "long grey",
             "height": "average",
-            "img_path": "portraits/Durkin Torlith.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Durkin Torlith.jpg', filename='Durkin Torlith.jpg', image_url='https://images2.imgbox.com/ef/62/GVY9ZYUP_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/ef/62/GVY9ZYUP_t.jpg', web_url='https://imgbox.com/GVY9ZYUP', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/ef/62/GVY9ZYUP_o.jpg",
             "job": {
                 "description": "wise and perceptive, with a strong intuition",
                 "fullname": "Torlith Durkin",
@@ -6240,7 +6483,8 @@
             "generation": "old",
             "hair": "long and white",
             "height": "short",
-            "img_path": "portraits/Steadfast Torlith.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Steadfast Torlith.jpg', filename='Steadfast Torlith.jpg', image_url='https://images2.imgbox.com/38/41/dW4rjH8L_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/38/41/dW4rjH8L_t.jpg', web_url='https://imgbox.com/dW4rjH8L', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/38/41/dW4rjH8L_o.jpg",
             "job": {
                 "description": "The backbone of the family, with a sharp tongue but a kind heart",
                 "fullname": "Torlith Steadfast",
@@ -6288,7 +6532,8 @@
             "generation": "old",
             "hair": "Short and curly - gray",
             "height": "short",
-            "img_path": "portraits/Olghrd Uhlith.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Olghrd Uhlith.jpg', filename='Olghrd Uhlith.jpg', image_url='https://images2.imgbox.com/6d/84/rQjBYwVJ_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/6d/84/rQjBYwVJ_t.jpg', web_url='https://imgbox.com/rQjBYwVJ', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/6d/84/rQjBYwVJ_o.jpg",
             "name": "Uhlith",
             "nickname": "Ulia",
             "origin": "native",
@@ -6322,7 +6567,8 @@
             "generation": "young",
             "hair": "long and silky, light brown",
             "height": "short",
-            "img_path": "portraits/Belgre Ulave.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Belgre Ulave.jpg', filename='Belgre Ulave.jpg', image_url='https://images2.imgbox.com/44/40/w02WYRGb_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/44/40/w02WYRGb_t.jpg', web_url='https://imgbox.com/w02WYRGb', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/44/40/w02WYRGb_o.jpg",
             "job": {
                 "description": "Caring and nurturing, keeps the family together",
                 "fullname": "Ulave Belgre",
@@ -6369,7 +6615,8 @@
             "generation": "young",
             "hair": "long and braided",
             "height": "short",
-            "img_path": "portraits/Softshadow Ulave.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Ulave.jpg', filename='Softshadow Ulave.jpg', image_url='https://images2.imgbox.com/4e/9f/P0lRCV7S_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/4e/9f/P0lRCV7S_t.jpg', web_url='https://imgbox.com/P0lRCV7S', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/4e/9f/P0lRCV7S_o.jpg",
             "job": {
                 "description": "Timid granddaughter with a love of animals",
                 "fullname": "Ulave Softshadow",
@@ -6416,7 +6663,8 @@
             "generation": "mid",
             "hair": "short and straight",
             "height": "average",
-            "img_path": "portraits/Softshadow Vetta.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Softshadow Vetta.jpg', filename='Softshadow Vetta.jpg', image_url='https://images2.imgbox.com/c7/76/jRFXGV2k_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/c7/76/jRFXGV2k_t.jpg', web_url='https://imgbox.com/jRFXGV2k', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/c7/76/jRFXGV2k_o.jpg",
             "name": "Vetta",
             "nickname": "Vettie",
             "origin": "native",
@@ -6450,7 +6698,8 @@
             "generation": "mid",
             "hair": "Short, silver hair",
             "height": "short",
-            "img_path": "portraits/Wroughthammer Vetta.jpg",
+            "img_box": "Submission(success=True, filepath='./output/X/portraits/Wroughthammer Vetta.jpg', filename='Wroughthammer Vetta.jpg', image_url='https://images2.imgbox.com/2d/f6/CxxLCnBA_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/2d/f6/CxxLCnBA_t.jpg', web_url='https://imgbox.com/CxxLCnBA', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+            "img_path": "https://images2.imgbox.com/2d/f6/CxxLCnBA_o.jpg",
             "name": "Vetta",
             "nickname": "Grandma V",
             "origin": "outsider",
@@ -6508,7 +6757,7 @@
             "population": "8",
             "prosperity": "3",
             "relationship": "The Belgre family is an integral part of the Crystalhold community, providing food and resources that are essential to the hamlet's survival. They have close ties to the other dwarf families in the area, as well as friendly relationships with some of the human farmers and hunters in the nearby valleys. However, they are also fiercely independent and do not take kindly to outsiders who try to interfere with their way of life.",
-            "rsite": "sites/Belgre Forge_Belgre Farmstead.jpg",
+            "rsite": "https://images2.imgbox.com/9b/b3/VHcm0LXb_o.jpg",
             "sites": {
                 "Belgre Forge": {
                     "architecture": [
@@ -6517,7 +6766,8 @@
                         "the ring of hammer on anvil"
                     ],
                     "details": "A bustling forge with skilled blacksmiths hard at work.",
-                    "img_path": "sites/Belgre Forge_Belgre Farmstead.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/Belgre Forge_Belgre Farmstead.jpg', filename='Belgre Forge_Belgre Farmstead.jpg', image_url='https://images2.imgbox.com/9b/b3/VHcm0LXb_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/9b/b3/VHcm0LXb_t.jpg', web_url='https://imgbox.com/VHcm0LXb', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/9b/b3/VHcm0LXb_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6530,7 +6780,8 @@
                         "smoke rising from chimney"
                     ],
                     "details": "A large, well-maintained homestead surrounded by fields of crops and fruit trees.",
-                    "img_path": "sites/Belgre Homestead_Belgre Farmstead.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/Belgre Homestead_Belgre Farmstead.jpg', filename='Belgre Homestead_Belgre Farmstead.jpg', image_url='https://images2.imgbox.com/04/1e/gFdnjk68_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/04/1e/gFdnjk68_t.jpg', web_url='https://imgbox.com/gFdnjk68', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/04/1e/gFdnjk68_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6576,7 +6827,7 @@
             "population": "5",
             "prosperity": "2",
             "relationship": "The Crystal Cavers are highly respected in Crystalhold for their bravery and resourcefulness. They have a close relationship with the other workers and often collaborate with them on mining expeditions. They also maintain good relations with the human allies in the nearby valleys, who provide them with valuable resources and information about the surface world.",
-            "rsite": "sites/The Crystal Caverns_Crystal Cavers.jpg",
+            "rsite": "https://images2.imgbox.com/89/e1/JPToJpcT_o.jpg",
             "sites": {
                 "The Crystal Caverns": {
                     "architecture": [
@@ -6588,7 +6839,8 @@
                         "twisting"
                     ],
                     "details": "A sprawling maze of twisting tunnels and underground caves, lit by the shimmering light of glowing crystals.",
-                    "img_path": "sites/The Crystal Caverns_Crystal Cavers.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/The Crystal Caverns_Crystal Cavers.jpg', filename='The Crystal Caverns_Crystal Cavers.jpg', image_url='https://images2.imgbox.com/89/e1/JPToJpcT_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/89/e1/JPToJpcT_t.jpg', web_url='https://imgbox.com/JPToJpcT', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/89/e1/JPToJpcT_o.jpg",
                     "inherits_architecture": true,
                     "state": "active",
                     "type": "underground site"
@@ -6603,7 +6855,8 @@
                         "decrepit"
                     ],
                     "details": "A labyrinth of narrow, cluttered tunnels crawling with vicious goblins and other dangerous creatures.",
-                    "img_path": "sites/The Goblin Warrens_Crystal Cavers.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/The Goblin Warrens_Crystal Cavers.jpg', filename='The Goblin Warrens_Crystal Cavers.jpg', image_url='https://images2.imgbox.com/7a/e9/1onMWDRL_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/7a/e9/1onMWDRL_t.jpg', web_url='https://imgbox.com/1onMWDRL', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/7a/e9/1onMWDRL_o.jpg",
                     "inherits_architecture": false,
                     "state": "active",
                     "type": "underground site"
@@ -6618,7 +6871,8 @@
                         "treasure-filled"
                     ],
                     "details": "A heavily-guarded underground vault filled with glittering treasure, where Crystal Cavers bring their spoils for safekeeping.",
-                    "img_path": "sites/The Treasure Vault_Crystal Cavers.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/The Treasure Vault_Crystal Cavers.jpg', filename='The Treasure Vault_Crystal Cavers.jpg', image_url='https://images2.imgbox.com/bf/78/PGqqpZ9l_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/bf/78/PGqqpZ9l_t.jpg', web_url='https://imgbox.com/PGqqpZ9l', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/bf/78/PGqqpZ9l_o.jpg",
                     "inherits_architecture": true,
                     "state": "active",
                     "type": "underground site"
@@ -6664,7 +6918,7 @@
             "population": "3",
             "prosperity": "1",
             "relationship": "The Crystal Defenders work closely with the other members of Crystalhold to ensure the safety and prosperity of the entire community. They have a particularly close relationship with the miners, who rely on their protection during their dangerous expeditions deep within the mountain.",
-            "rsite": "sites/The Bronze Gate_Crystal Defenders.jpg",
+            "rsite": "https://images2.imgbox.com/f6/08/9w6nSmr5_o.jpg",
             "sites": {
                 "The Bronze Gate": {
                     "architecture": [
@@ -6673,7 +6927,8 @@
                         "dwarven iconography"
                     ],
                     "details": "a fortified gate made of thick metal, inscribed with dwarven runes and symbols",
-                    "img_path": "sites/The Bronze Gate_Crystal Defenders.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/The Bronze Gate_Crystal Defenders.jpg', filename='The Bronze Gate_Crystal Defenders.jpg', image_url='https://images2.imgbox.com/f6/08/9w6nSmr5_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/f6/08/9w6nSmr5_t.jpg', web_url='https://imgbox.com/9w6nSmr5', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/f6/08/9w6nSmr5_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6685,7 +6940,8 @@
                         "natural flora and fauna"
                     ],
                     "details": "an underground garden filled with glowing crystals and rare magical flora",
-                    "img_path": "sites/The Crystal Gardens_Crystal Defenders.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/The Crystal Gardens_Crystal Defenders.jpg', filename='The Crystal Gardens_Crystal Defenders.jpg', image_url='https://images2.imgbox.com/c3/e3/UrsZgsNh_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/c3/e3/UrsZgsNh_t.jpg', web_url='https://imgbox.com/UrsZgsNh', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/c3/e3/UrsZgsNh_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "landscape"
@@ -6697,7 +6953,8 @@
                         "armor and weapons display"
                     ],
                     "details": "a spacious hall with stone walls, decorated with trophies and weapons",
-                    "img_path": "sites/The Great Hall_Crystal Defenders.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/The Great Hall_Crystal Defenders.jpg', filename='The Great Hall_Crystal Defenders.jpg', image_url='https://images2.imgbox.com/fc/09/Ax5ERE0I_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/fc/09/Ax5ERE0I_t.jpg', web_url='https://imgbox.com/Ax5ERE0I', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/fc/09/Ax5ERE0I_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6709,7 +6966,8 @@
                         "massive anvil"
                     ],
                     "details": "an ancient temple with intricate carvings and magnificent murals",
-                    "img_path": "sites/The Temple of the Old One_Crystal Defenders.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/The Temple of the Old One_Crystal Defenders.jpg', filename='The Temple of the Old One_Crystal Defenders.jpg', image_url='https://images2.imgbox.com/7b/e6/kzz0HaSl_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/7b/e6/kzz0HaSl_t.jpg', web_url='https://imgbox.com/kzz0HaSl', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/7b/e6/kzz0HaSl_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6761,7 +7019,7 @@
             "population": "8",
             "prosperity": "3",
             "relationship": "The Forgemasters' Den has a close relationship with the people of Crystalhold. The blacksmiths provide essential tools and weapons for the miners and protectors of the hamlet, while the residents of Crystalhold provide the workshop with supplies and support. The Forgemasters' Den also has a good relationship with other workshops and guilds throughout the region, often participating in trade missions and collaborations.",
-            "rsite": "sites/Forgemaster's Quarters_Forgemasters' Den.jpg",
+            "rsite": "https://images2.imgbox.com/f0/2b/UxqXi3so_o.jpg",
             "sites": {
                 "Forgemaster's Quarters": {
                     "architecture": [
@@ -6773,7 +7031,8 @@
                         "well-defended"
                     ],
                     "details": "a warm and cozy living space carved into the living rock, filled with the sounds of the forge",
-                    "img_path": "sites/Forgemaster's Quarters_Forgemasters' Den.jpg",
+                    "img_box": "Submission(success=True, filepath=\"./output/X/sites/Forgemaster's Quarters_Forgemasters' Den.jpg\", filename=\"Forgemaster's Quarters_Forgemasters' Den.jpg\", image_url='https://images2.imgbox.com/f0/2b/UxqXi3so_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/f0/2b/UxqXi3so_t.jpg', web_url='https://imgbox.com/UxqXi3so', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/f0/2b/UxqXi3so_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6787,7 +7046,8 @@
                         "well-defended"
                     ],
                     "details": "a heavily guarded metal storehouse filled with raw metals of all kinds",
-                    "img_path": "sites/The Metal Storehouse_Forgemasters' Den.jpg",
+                    "img_box": "Submission(success=True, filepath=\"./output/X/sites/The Metal Storehouse_Forgemasters' Den.jpg\", filename=\"The Metal Storehouse_Forgemasters' Den.jpg\", image_url='https://images2.imgbox.com/86/ba/OupY7nPq_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/86/ba/OupY7nPq_t.jpg', web_url='https://imgbox.com/OupY7nPq', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/86/ba/OupY7nPq_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6801,7 +7061,8 @@
                         "decorated with impressive displays of completed weapons and tools"
                     ],
                     "details": "a showroom displaying a wide range of weapons and armor masterfully crafted by Forgemasters' Den workers",
-                    "img_path": "sites/The Showroom_Forgemasters' Den.jpg",
+                    "img_box": "Submission(success=True, filepath=\"./output/X/sites/The Showroom_Forgemasters' Den.jpg\", filename=\"The Showroom_Forgemasters' Den.jpg\", image_url='https://images2.imgbox.com/25/44/OtkTbQDa_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/25/44/OtkTbQDa_t.jpg', web_url='https://imgbox.com/OtkTbQDa', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/25/44/OtkTbQDa_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6849,7 +7110,7 @@
             "population": "4",
             "prosperity": "2",
             "relationship": "The Gemmatori Guild is an integral part of Crystalhold's community. They collaborate closely with the miners to ensure they have access to the highest quality raw materials to fashion into beautiful jewelry. They also trade with the human farmers and hunters in the nearby valleys for food, timber, and other supplies.",
-            "rsite": "sites/Bronze Gate_Gemmatori Guild.jpg",
+            "rsite": "https://images2.imgbox.com/12/2e/00uDgirb_o.jpg",
             "sites": {
                 "Bronze Gate": {
                     "architecture": [
@@ -6861,7 +7122,8 @@
                         "site of major events"
                     ],
                     "details": "The entrance to Gemmatori Guild, protected by a massive bronze gate and guarded by skilled dwarven warriors.",
-                    "img_path": "sites/Bronze Gate_Gemmatori Guild.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/Bronze Gate_Gemmatori Guild.jpg', filename='Bronze Gate_Gemmatori Guild.jpg', image_url='https://images2.imgbox.com/12/2e/00uDgirb_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/12/2e/00uDgirb_t.jpg', web_url='https://imgbox.com/00uDgirb', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/12/2e/00uDgirb_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6876,7 +7138,8 @@
                         "sacred place"
                     ],
                     "details": "A spacious chamber lined with delicate crystal formations, where guild members come to think and discuss their craft.",
-                    "img_path": "sites/Crystalgardens Chamber_Gemmatori Guild.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/Crystalgardens Chamber_Gemmatori Guild.jpg', filename='Crystalgardens Chamber_Gemmatori Guild.jpg', image_url='https://images2.imgbox.com/21/06/ewJR6tgn_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/21/06/ewJR6tgn_t.jpg', web_url='https://imgbox.com/ewJR6tgn', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/21/06/ewJR6tgn_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6891,7 +7154,8 @@
                         "expertly crafted"
                     ],
                     "details": "A small chamber within Shadowvein Hall, filled with jewelry-making tools and precious metals.",
-                    "img_path": "sites/Shadowvein Hall_Gemmatori Guild.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/Shadowvein Hall_Gemmatori Guild.jpg', filename='Shadowvein Hall_Gemmatori Guild.jpg', image_url='https://images2.imgbox.com/1c/cf/lfwSOZPH_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/1c/cf/lfwSOZPH_t.jpg', web_url='https://imgbox.com/lfwSOZPH', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/1c/cf/lfwSOZPH_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6947,7 +7211,7 @@
             "population": "12",
             "prosperity": "4",
             "relationship": "As one of the largest and most successful mining companies in Crystalhold, Steadfast Mining Company has a close relationship with the hamlet and its people. They often trade their valuable commodities for food and supplies, and they are respected for their resilience and hard work. However, tensions have recently arisen between Steadfast Mining Company and some of the neighboring human settlements, who feel that the dwarves are monopolizing valuable resources.",
-            "rsite": "sites/Shadowvein Hall_Steadfast Mining Company.jpg",
+            "rsite": "https://images2.imgbox.com/84/1b/aBU8UHQU_o.jpg",
             "sites": {
                 "Shadowvein Hall": {
                     "architecture": [
@@ -6959,7 +7223,8 @@
                         "expertly crafted"
                     ],
                     "details": "a maze-like network of tunnels and caverns illuminated by the warm glow of glowing crystals and veins of precious ore.",
-                    "img_path": "sites/Shadowvein Hall_Steadfast Mining Company.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/Shadowvein Hall_Steadfast Mining Company.jpg', filename='Shadowvein Hall_Steadfast Mining Company.jpg', image_url='https://images2.imgbox.com/84/1b/aBU8UHQU_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/84/1b/aBU8UHQU_t.jpg', web_url='https://imgbox.com/aBU8UHQU', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/84/1b/aBU8UHQU_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6974,7 +7239,8 @@
                         "site of major events"
                     ],
                     "details": "A monumental gate made of gleaming bronze, guarded by teams of well-armed dwarven warriors. The gate serves as both a welcoming entrance to Steadfast Mining Company's mines and a bustling marketplace for trade and commerce.",
-                    "img_path": "sites/The Bronze Gate_Steadfast Mining Company.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/The Bronze Gate_Steadfast Mining Company.jpg', filename='The Bronze Gate_Steadfast Mining Company.jpg', image_url='https://images2.imgbox.com/bd/4d/3BIs9ms8_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/bd/4d/3BIs9ms8_t.jpg', web_url='https://imgbox.com/3BIs9ms8', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/bd/4d/3BIs9ms8_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -6989,7 +7255,8 @@
                         "sacred place"
                     ],
                     "details": "A tranquil sanctuary hidden deep beneath the earth, filled with fragrant plants and shimmering crystal flowers of every color. The gentle sound of a bubbling stream and the occasional chirps of tiny cave birds complete the idyllic scene.",
-                    "img_path": "sites/The Crystal Gardens_Steadfast Mining Company.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/The Crystal Gardens_Steadfast Mining Company.jpg', filename='The Crystal Gardens_Steadfast Mining Company.jpg', image_url='https://images2.imgbox.com/26/2b/g6L7M3ae_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/26/2b/g6L7M3ae_t.jpg', web_url='https://imgbox.com/g6L7M3ae', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/26/2b/g6L7M3ae_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "landscape"
@@ -7004,7 +7271,8 @@
                         "team spirit"
                     ],
                     "details": "A dimly lit, hot, and noisy chamber filled with the clanging of hammer on anvil, the hiss of water quenching white-hot steel, and the sparks of molten metal. The master smiths of Steadfast Mining Company work tirelessly to create the finest weapons and jewelry in all the land.",
-                    "img_path": "sites/The Great Forge_Steadfast Mining Company.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/The Great Forge_Steadfast Mining Company.jpg', filename='The Great Forge_Steadfast Mining Company.jpg', image_url='https://images2.imgbox.com/91/1c/e9m4CmRq_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/91/1c/e9m4CmRq_t.jpg', web_url='https://imgbox.com/e9m4CmRq', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/91/1c/e9m4CmRq_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
@@ -7019,7 +7287,8 @@
                         "portal to mysteries and dangers"
                     ],
                     "details": "Twisting tunnels and cramped passageways, long abandoned by the miners of Steadfast Mining Company. These ancient tunnels are rumoured to be cursed with terrible beasts and restless spirits, but also treasure beyond measure.",
-                    "img_path": "sites/The Old Tunnels_Steadfast Mining Company.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/The Old Tunnels_Steadfast Mining Company.jpg', filename='The Old Tunnels_Steadfast Mining Company.jpg', image_url='https://images2.imgbox.com/07/7f/wug0PnA4_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/07/7f/wug0PnA4_t.jpg', web_url='https://imgbox.com/wug0PnA4', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/07/7f/wug0PnA4_o.jpg",
                     "inherits_architecture": true,
                     "state": "abandoned",
                     "type": "building"
@@ -7034,7 +7303,8 @@
                         "learning and reflection"
                     ],
                     "details": "An awe-inspiring temple in the heart of Steadfast Mining Company, dedicated to the worship of the Old One and the pursuit of knowledge. The temple is filled with intricate murals and sculptures, as well as ancient tomes of wisdom and powerful magical artifacts.",
-                    "img_path": "sites/The Temple of the Old One_Steadfast Mining Company.jpg",
+                    "img_box": "Submission(success=True, filepath='./output/X/sites/The Temple of the Old One_Steadfast Mining Company.jpg', filename='The Temple of the Old One_Steadfast Mining Company.jpg', image_url='https://images2.imgbox.com/f5/f9/X1C33C6k_o.jpg', thumbnail_url='https://thumbs2.imgbox.com/f5/f9/X1C33C6k_t.jpg', web_url='https://imgbox.com/X1C33C6k', gallery_url='https://imgbox.com/g/tF8yWtjLoh', edit_url='https://imgbox.com/upload/edit/787861636/VPWITdbviG08tsiB')",
+                    "img_path": "https://images2.imgbox.com/f5/f9/X1C33C6k_o.jpg",
                     "inherits_architecture": true,
                     "state": "inhabited",
                     "type": "building"
